@@ -1,0 +1,71 @@
+check_id,severity,entity_type,entity_key,claim_id,payer_id,payer_name,date_of_service,cpt_code,billed_amount,amount_impact,finding
+DQ-10,HIGH,claim,CLM-2026-000113,CLM-2026-000113,PAY-AET-005,Aetna,2025-10-13,99214,264.00,264.00,"provider_npi ""776728045X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-000312,CLM-2026-000312,PAY-BCB-003,Blue Cross Blue Shield,2025-12-10,12001,196.00,196.00,"provider_npi ""898408407"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-000371,CLM-2026-000371,PAY-BCB-003,Blue Cross Blue Shield,2025-07-27,99214,264.00,264.00,provider_npi 2437857530 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-000705,CLM-2026-000705,PAY-MCR-001,Medicare Part B,2026-03-23,36415,18.00,18.00,provider_npi 5362759597 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-002016,CLM-2026-002016,PAY-MCR-001,Medicare Part B,2026-05-18,36415,18.00,18.00,"provider_npi ""898408407"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-002077,CLM-2026-002077,PAY-MCR-001,Medicare Part B,2025-08-10,36415,18.00,18.00,"provider_npi ""243785753"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-002474,CLM-2026-002474,PAY-MCR-001,Medicare Part B,2026-06-03,71046,97.00,97.00,"provider_npi ""810333004"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-002767,CLM-2026-002767,PAY-MCR-001,Medicare Part B,2025-11-06,99215,369.00,369.00,"provider_npi ""187789830X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-003394,CLM-2026-003394,PAY-BCB-003,Blue Cross Blue Shield,2026-01-08,99214,264.00,264.00,"provider_npi ""810333004"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-003472,CLM-2026-003472,PAY-HUM-007,Humana Medicare Advantage,2025-12-15,99214,264.00,264.00,"provider_npi ""877715039X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-003988,CLM-2026-003988,PAY-CIG-006,Cigna,2025-11-15,85025,48.00,48.00,"provider_npi ""978102511X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-005015,CLM-2026-005015,PAY-AET-005,Aetna,2025-08-10,99396,312.00,312.00,provider_npi 7767280450 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-005553,CLM-2026-005553,PAY-BCB-003,Blue Cross Blue Shield,2026-02-14,20610,223.00,223.00,"provider_npi ""622400098X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-006117,CLM-2026-006117,PAY-MCD-002,State Medicaid,2025-07-20,85025,48.00,48.00,"provider_npi ""393258408"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-006420,CLM-2026-006420,PAY-MCR-001,Medicare Part B,2025-10-06,36415,18.00,18.00,provider_npi 5599749924 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-007664,CLM-2026-007664,PAY-MCR-001,Medicare Part B,2026-05-07,80053,186.00,186.00,"provider_npi ""869303829"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-007712,CLM-2026-007712,PAY-TRC-008,TRICARE East,2026-01-05,36415,18.00,18.00,"provider_npi ""599677380"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-008541,CLM-2026-008541,PAY-MCR-001,Medicare Part B,2025-08-08,99214,264.00,264.00,"provider_npi ""609549350"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-008580,CLM-2026-008580,PAY-BCB-003,Blue Cross Blue Shield,2026-01-01,99214,264.00,264.00,"provider_npi ""496949866X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-008661,CLM-2026-008661,PAY-UHC-004,UnitedHealthcare,2026-05-11,71046,97.00,97.00,provider_npi 0902105476 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-008931,CLM-2026-008931,PAY-UHC-004,UnitedHealthcare,2026-06-24,99215,369.00,369.00,"provider_npi ""359919480X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-009347,CLM-2026-009347,PAY-UHC-004,UnitedHealthcare,2025-10-19,20610,223.00,223.00,provider_npi 8693038293 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-009404,CLM-2026-009404,PAY-AET-005,Aetna,2025-07-12,73630,89.00,89.00,provider_npi 8103330041 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-009407,CLM-2026-009407,PAY-AET-005,Aetna,2025-10-02,93000,74.00,74.00,"provider_npi ""877715039X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-009624,CLM-2026-009624,PAY-HUM-007,Humana Medicare Advantage,2026-01-29,99203,248.00,248.00,provider_npi 4760232158 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-011185,CLM-2026-011185,PAY-BCB-003,Blue Cross Blue Shield,2026-01-04,99213,185.00,185.00,"provider_npi ""369631688X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-011568,CLM-2026-011568,PAY-AET-005,Aetna,2026-05-14,99214,264.00,264.00,"provider_npi ""090210547"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-012012,CLM-2026-012012,PAY-AET-005,Aetna,2026-04-25,99215,369.00,369.00,"provider_npi ""978102511"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-012612,CLM-2026-012612,PAY-MCD-002,State Medicaid,2025-07-18,71046,97.00,97.00,"provider_npi ""551522393"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-013131,CLM-2026-013131,PAY-BCB-003,Blue Cross Blue Shield,2026-06-28,99215,369.00,369.00,"provider_npi ""496949866X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-013945,CLM-2026-013945,PAY-MCD-002,State Medicaid,2025-11-20,99213,185.00,185.00,provider_npi 6404957330 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-014499,CLM-2026-014499,PAY-CIG-006,Cigna,2026-06-12,99213,185.00,185.00,provider_npi 1927284825 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-014927,CLM-2026-014927,PAY-CIG-006,Cigna,2026-03-03,71046,194.00,194.00,"provider_npi ""640495733"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-014969,CLM-2026-014969,PAY-UHC-004,UnitedHealthcare,2026-04-15,93000,74.00,74.00,"provider_npi ""933384490X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-015169,CLM-2026-015169,PAY-UHC-004,UnitedHealthcare,2025-07-22,99213,185.00,185.00,provider_npi 5996773808 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-015338,CLM-2026-015338,PAY-AET-005,Aetna,2026-05-17,99396,312.00,312.00,provider_npi 6224000980 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-015895,CLM-2026-015895,PAY-MCR-001,Medicare Part B,2025-12-14,85025,48.00,48.00,"provider_npi ""774780764"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-016269,CLM-2026-016269,PAY-MCR-001,Medicare Part B,2026-05-19,99396,312.00,312.00,"provider_npi ""359919480"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-016790,CLM-2026-016790,PAY-MCR-001,Medicare Part B,2026-06-24,36415,18.00,18.00,provider_npi 5362759597 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-016885,CLM-2026-016885,PAY-MCR-001,Medicare Part B,2026-01-06,20610,223.00,223.00,provider_npi 3696316887 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-017820,CLM-2026-017820,PAY-TRC-008,TRICARE East,2025-09-13,71046,97.00,97.00,"provider_npi ""640495733X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-018226,CLM-2026-018226,PAY-MCD-002,State Medicaid,2025-10-09,99396,312.00,312.00,"provider_npi ""599677380X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-018341,CLM-2026-018341,PAY-BCB-003,Blue Cross Blue Shield,2026-02-11,99213,185.00,185.00,provider_npi 3821429696 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-018624,CLM-2026-018624,PAY-BCB-003,Blue Cross Blue Shield,2026-02-02,20610,223.00,223.00,provider_npi 7416107104 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-018691,CLM-2026-018691,PAY-HUM-007,Humana Medicare Advantage,2026-02-16,36415,54.00,54.00,provider_npi 9781025119 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-018893,CLM-2026-018893,PAY-MCD-002,State Medicaid,2025-10-26,85025,48.00,48.00,provider_npi 9071285407 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-018895,CLM-2026-018895,PAY-BCB-003,Blue Cross Blue Shield,2026-03-20,85025,48.00,48.00,provider_npi 6095493504 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-019321,CLM-2026-019321,PAY-AET-005,Aetna,2025-12-26,93000,74.00,74.00,"provider_npi ""965100200"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-019332,CLM-2026-019332,PAY-UHC-004,UnitedHealthcare,2026-04-21,71046,97.00,97.00,"provider_npi ""369631688X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-019618,CLM-2026-019618,PAY-AET-005,Aetna,2025-10-13,99213,185.00,185.00,"provider_npi ""090210547"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-019650,CLM-2026-019650,PAY-BCB-003,Blue Cross Blue Shield,2025-11-29,90471,41.00,41.00,"provider_npi ""898408407X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-019755,CLM-2026-019755,PAY-MCR-001,Medicare Part B,2025-10-05,99214,264.00,264.00,"provider_npi ""599677380X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-020616,CLM-2026-020616,PAY-BCB-003,Blue Cross Blue Shield,2025-10-27,99213,185.00,185.00,provider_npi 5515223939 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-021181,CLM-2026-021181,PAY-MCD-002,State Medicaid,2026-01-17,99213,185.00,185.00,"provider_npi ""393258408"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-021322,CLM-2026-021322,PAY-AET-005,Aetna,2025-07-09,85025,48.00,48.00,"provider_npi ""869303829X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-021324,CLM-2026-021324,PAY-AET-005,Aetna,2026-05-17,12001,196.00,196.00,"provider_npi ""933384490X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-021362,CLM-2026-021362,PAY-MCR-001,Medicare Part B,2026-06-08,99203,248.00,248.00,"provider_npi ""774780764"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-021623,CLM-2026-021623,PAY-MCD-002,State Medicaid,2025-10-08,85025,48.00,48.00,"provider_npi ""985633061"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-021857,CLM-2026-021857,PAY-AET-005,Aetna,2025-07-02,99215,369.00,369.00,provider_npi 4738537373 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-022052,CLM-2026-022052,PAY-MCD-002,State Medicaid,2026-05-27,99213,370.00,370.00,"provider_npi ""187789830X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-022431,CLM-2026-022431,PAY-MCD-002,State Medicaid,2026-05-28,90471,41.00,41.00,"provider_npi ""622400098X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-023409,CLM-2026-023409,PAY-MCR-001,Medicare Part B,2025-12-22,80053,186.00,186.00,"provider_npi ""869303829X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-023632,CLM-2026-023632,PAY-MCR-001,Medicare Part B,2026-01-27,99204,375.00,375.00,provider_npi 6404957330 fails the Luhn check digit
+DQ-10,HIGH,claim,CLM-2026-023846,CLM-2026-023846,PAY-BCB-003,Blue Cross Blue Shield,2025-10-29,99203,248.00,248.00,"provider_npi ""359919480X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-023889,CLM-2026-023889,PAY-BCB-003,Blue Cross Blue Shield,2026-01-22,99213,185.00,185.00,"provider_npi ""776728045X"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-024318,CLM-2026-024318,PAY-HUM-007,Humana Medicare Advantage,2026-02-05,99396,312.00,312.00,"provider_npi ""131017590"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-024339,CLM-2026-024339,PAY-UHC-004,UnitedHealthcare,2026-06-24,99213,185.00,185.00,"provider_npi ""393258408"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-024596,CLM-2026-024596,PAY-MCR-001,Medicare Part B,2026-05-15,71046,97.00,97.00,"provider_npi ""382142969"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-024702,CLM-2026-024702,PAY-UHC-004,UnitedHealthcare,2025-08-30,99215,369.00,369.00,"provider_npi ""202285959"" is not 10 numeric digits"
+DQ-10,HIGH,claim,CLM-2026-024868,CLM-2026-024868,PAY-UHC-004,UnitedHealthcare,2026-05-29,99204,375.00,375.00,"provider_npi ""898408407X"" is not 10 numeric digits"

@@ -1,0 +1,13 @@
+check_id,check_name,injected_defects,detected_exceptions,true_positives,false_negatives,false_positives,recall_pct,precision_pct,suite_result
+DQ-01,Duplicate claim identifiers,90,90,90,0,0,100.0,100.0,PASS
+DQ-02,Duplicate billing fingerprint,140,140,140,0,0,100.0,100.0,PASS
+DQ-03,Duplicate remittance posting,75,75,75,0,0,100.0,100.0,PASS
+DQ-04,Orphaned remittance record,120,120,120,0,0,100.0,100.0,PASS
+DQ-05,Missing remittance for paid claim,60,60,60,0,0,100.0,100.0,PASS
+DQ-06,Claim-to-payment amount mismatch,310,310,310,0,0,100.0,100.0,PASS
+DQ-07,Overpayment,45,45,45,0,0,100.0,100.0,PASS
+DQ-08,Allowed amount below contract,200,200,200,0,0,100.0,100.0,PASS
+DQ-09,Unmapped payer identifier,55,55,55,0,0,100.0,100.0,PASS
+DQ-10,Invalid provider NPI,70,70,70,0,0,100.0,100.0,PASS
+DQ-11,Temporal integrity break,85,85,85,0,0,100.0,100.0,PASS
+DQ-12,Missing or malformed mandatory field,130,130,130,0,0,100.0,100.0,PASS

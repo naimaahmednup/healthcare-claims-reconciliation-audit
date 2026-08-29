@@ -1,0 +1,86 @@
+check_id,severity,entity_type,entity_key,claim_id,payer_id,payer_name,date_of_service,cpt_code,billed_amount,amount_impact,finding
+DQ-11,MEDIUM,claim,CLM-2026-000393,CLM-2026-000393,PAY-MCD-002,State Medicaid,2026-09-29,99215,369.00,0,"claim submitted 2025-11-16, before the date of service 2026-09-29; date of service 2026-09-29 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-000710,CLM-2026-000710,PAY-TRC-008,TRICARE East,2026-02-14,99396,624.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-001915,CLM-2026-001915,PAY-MCR-001,Medicare Part B,2025-08-07,85025,48.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-002276,CLM-2026-002276,PAY-WCP-009,Workers Compensation Fund,2026-02-03,99213,185.00,0,"claim submitted 2026-01-24, before the date of service 2026-02-03"
+DQ-11,MEDIUM,claim,CLM-2026-002410,CLM-2026-002410,PAY-AET-005,Aetna,2026-09-04,71046,97.00,0,"remittance dated before the date of service; claim submitted 2025-10-13, before the date of service 2026-09-04; date of service 2026-09-04 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-002613,CLM-2026-002613,PAY-CIG-006,Cigna,2026-02-17,99214,264.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-002674,CLM-2026-002674,PAY-CIG-006,Cigna,2025-11-27,99214,264.00,0,"claim submitted 2025-11-26, before the date of service 2025-11-27"
+DQ-11,MEDIUM,claim,CLM-2026-002735,CLM-2026-002735,PAY-UHC-004,UnitedHealthcare,2026-02-12,85025,48.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-003247,CLM-2026-003247,PAY-AET-005,Aetna,2026-06-26,85025,48.00,0,"claim submitted 2026-06-15, before the date of service 2026-06-26"
+DQ-11,MEDIUM,claim,CLM-2026-003588,CLM-2026-003588,PAY-MCR-001,Medicare Part B,2026-11-21,80053,62.00,0,"remittance dated before the date of service; claim submitted 2026-02-22, before the date of service 2026-11-21; date of service 2026-11-21 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-003924,CLM-2026-003924,PAY-UHC-004,UnitedHealthcare,2025-12-18,90471,41.00,0,"claim submitted 2025-12-11, before the date of service 2025-12-18"
+DQ-11,MEDIUM,claim,CLM-2026-004266,CLM-2026-004266,PAY-MCR-001,Medicare Part B,2026-09-03,85025,144.00,0,"remittance dated before the date of service; claim submitted 2025-07-18, before the date of service 2026-09-03; date of service 2026-09-03 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-004465,CLM-2026-004465,PAY-BCB-003,Blue Cross Blue Shield,2026-04-16,99203,248.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-004857,CLM-2026-004857,PAY-WCP-009,Workers Compensation Fund,2026-02-25,99213,185.00,0,"claim submitted 2026-02-14, before the date of service 2026-02-25"
+DQ-11,MEDIUM,claim,CLM-2026-005261,CLM-2026-005261,PAY-MCR-001,Medicare Part B,2026-09-29,85025,48.00,0,"remittance dated before the date of service; claim submitted 2025-10-09, before the date of service 2026-09-29; date of service 2026-09-29 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-005996,CLM-2026-005996,PAY-AET-005,Aetna,2026-10-10,71046,97.00,0,"remittance dated before the date of service; claim submitted 2026-06-08, before the date of service 2026-10-10; date of service 2026-10-10 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-006129,CLM-2026-006129,PAY-MCD-002,State Medicaid,2026-11-26,71046,97.00,0,"remittance dated before the date of service; claim submitted 2026-04-18, before the date of service 2026-11-26; date of service 2026-11-26 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-006497,CLM-2026-006497,PAY-CIG-006,Cigna,2025-09-15,12001,196.00,0,"claim submitted 2025-09-04, before the date of service 2025-09-15"
+DQ-11,MEDIUM,claim,CLM-2026-006604,CLM-2026-006604,PAY-UHC-004,UnitedHealthcare,2026-09-20,99213,185.00,0,"remittance dated before the date of service; claim submitted 2026-05-13, before the date of service 2026-09-20; date of service 2026-09-20 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-006610,CLM-2026-006610,PAY-MCD-002,State Medicaid,2026-06-26,36415,18.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-006740,CLM-2026-006740,PAY-MCD-002,State Medicaid,2026-11-01,99213,185.00,0,"remittance dated before the date of service; claim submitted 2025-09-22, before the date of service 2026-11-01; date of service 2026-11-01 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-007015,CLM-2026-007015,PAY-MCD-002,State Medicaid,2026-11-08,99204,375.00,0,"remittance dated before the date of service; claim submitted 2025-07-19, before the date of service 2026-11-08; date of service 2026-11-08 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-007219,CLM-2026-007219,PAY-HUM-007,Humana Medicare Advantage,2026-06-24,99213,185.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-008323,CLM-2026-008323,PAY-WCP-009,Workers Compensation Fund,2025-08-04,36415,18.00,0,"claim submitted 2025-08-02, before the date of service 2025-08-04"
+DQ-11,MEDIUM,claim,CLM-2026-008393,CLM-2026-008393,PAY-MCR-001,Medicare Part B,2026-10-04,73630,89.00,0,"remittance dated before the date of service; claim submitted 2025-12-30, before the date of service 2026-10-04; date of service 2026-10-04 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-008778,CLM-2026-008778,PAY-UHC-004,UnitedHealthcare,2026-10-03,99203,248.00,0,"remittance dated before the date of service; claim submitted 2026-04-06, before the date of service 2026-10-03; date of service 2026-10-03 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-009433,CLM-2026-009433,PAY-MCR-001,Medicare Part B,2026-01-29,99213,185.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-009682,CLM-2026-009682,PAY-BCB-003,Blue Cross Blue Shield,2026-02-03,99213,185.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-009806,CLM-2026-009806,PAY-BCB-003,Blue Cross Blue Shield,2025-07-09,99213,185.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-010672,CLM-2026-010672,PAY-MCR-001,Medicare Part B,2025-09-26,36415,18.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-010846,CLM-2026-010846,PAY-BCB-003,Blue Cross Blue Shield,2026-06-09,99215,369.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-010993,CLM-2026-010993,PAY-MCR-001,Medicare Part B,2026-09-30,93000,74.00,0,"remittance dated before the date of service; claim submitted 2025-10-26, before the date of service 2026-09-30; date of service 2026-09-30 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-011644,CLM-2026-011644,PAY-MCR-001,Medicare Part B,2025-07-01,85025,96.00,0,"claim submitted 2025-06-28, before the date of service 2025-07-01"
+DQ-11,MEDIUM,claim,CLM-2026-012134,CLM-2026-012134,PAY-BCB-003,Blue Cross Blue Shield,2025-10-02,99213,185.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-012688,CLM-2026-012688,PAY-HUM-007,Humana Medicare Advantage,2025-09-05,99396,312.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-012787,CLM-2026-012787,PAY-MCR-001,Medicare Part B,2026-06-18,99214,264.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-012918,CLM-2026-012918,PAY-BCB-003,Blue Cross Blue Shield,2026-11-21,80053,62.00,0,"remittance dated before the date of service; claim submitted 2025-08-04, before the date of service 2026-11-21; date of service 2026-11-21 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-013225,CLM-2026-013225,PAY-BCB-003,Blue Cross Blue Shield,2025-07-06,71046,97.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-013388,CLM-2026-013388,PAY-UHC-004,UnitedHealthcare,2025-09-05,99214,264.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-013718,CLM-2026-013718,PAY-MCR-001,Medicare Part B,2026-09-19,85025,48.00,0,"remittance dated before the date of service; claim submitted 2026-07-04, before the date of service 2026-09-19; date of service 2026-09-19 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-013890,CLM-2026-013890,PAY-MCR-001,Medicare Part B,2025-09-25,99214,264.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-014152,CLM-2026-014152,PAY-CIG-006,Cigna,2026-02-15,71046,97.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-014445,CLM-2026-014445,PAY-MCD-002,State Medicaid,2026-06-03,99396,312.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-014626,CLM-2026-014626,PAY-MCD-002,State Medicaid,2026-04-12,80053,62.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-014926,CLM-2026-014926,PAY-UHC-004,UnitedHealthcare,2026-09-28,93000,74.00,0,"remittance dated before the date of service; claim submitted 2026-03-20, before the date of service 2026-09-28; date of service 2026-09-28 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-015133,CLM-2026-015133,PAY-UHC-004,UnitedHealthcare,2026-10-22,99204,375.00,0,"claim submitted 2026-03-08, before the date of service 2026-10-22; date of service 2026-10-22 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-015238,CLM-2026-015238,PAY-MCD-002,State Medicaid,2026-11-01,85025,48.00,0,"remittance dated before the date of service; claim submitted 2026-02-11, before the date of service 2026-11-01; date of service 2026-11-01 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-015281,CLM-2026-015281,PAY-BCB-003,Blue Cross Blue Shield,2026-11-13,93000,74.00,0,"remittance dated before the date of service; claim submitted 2025-12-17, before the date of service 2026-11-13; date of service 2026-11-13 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-015358,CLM-2026-015358,PAY-UHC-004,UnitedHealthcare,2026-01-19,85025,48.00,0,"claim submitted 2026-01-18, before the date of service 2026-01-19"
+DQ-11,MEDIUM,claim,CLM-2026-015550,CLM-2026-015550,PAY-MCD-002,State Medicaid,2026-01-04,80053,62.00,0,"claim submitted 2025-12-21, before the date of service 2026-01-04"
+DQ-11,MEDIUM,claim,CLM-2026-015864,CLM-2026-015864,PAY-WCP-009,Workers Compensation Fund,2025-07-16,90471,41.00,0,"claim submitted 2025-07-13, before the date of service 2025-07-16"
+DQ-11,MEDIUM,claim,CLM-2026-015940,CLM-2026-015940,PAY-AET-005,Aetna,2026-02-19,99203,248.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-016532,CLM-2026-016532,PAY-MCR-001,Medicare Part B,2025-10-30,99203,248.00,0,"claim submitted 2025-10-22, before the date of service 2025-10-30"
+DQ-11,MEDIUM,claim,CLM-2026-016859,CLM-2026-016859,PAY-AET-005,Aetna,2025-09-07,99215,369.00,0,"claim submitted 2025-09-01, before the date of service 2025-09-07"
+DQ-11,MEDIUM,claim,CLM-2026-017418,CLM-2026-017418,PAY-BCB-003,Blue Cross Blue Shield,2025-07-19,12001,196.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-017443,CLM-2026-017443,PAY-MCR-001,Medicare Part B,2026-02-08,99204,1125.00,0,"claim submitted 2026-02-06, before the date of service 2026-02-08"
+DQ-11,MEDIUM,claim,CLM-2026-018163,CLM-2026-018163,PAY-BCB-003,Blue Cross Blue Shield,2026-11-02,99213,185.00,0,"remittance dated before the date of service; claim submitted 2026-03-12, before the date of service 2026-11-02; date of service 2026-11-02 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-018385,CLM-2026-018385,PAY-HUM-007,Humana Medicare Advantage,2026-06-09,80053,62.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-019116,CLM-2026-019116,PAY-HUM-007,Humana Medicare Advantage,2026-02-04,99214,264.00,0,"claim submitted 2026-01-22, before the date of service 2026-02-04"
+DQ-11,MEDIUM,claim,CLM-2026-019315,CLM-2026-019315,PAY-MCD-002,State Medicaid,2026-02-27,71046,97.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-019317,CLM-2026-019317,PAY-CIG-006,Cigna,2026-01-19,80053,62.00,0,"claim submitted 2026-01-17, before the date of service 2026-01-19"
+DQ-11,MEDIUM,claim,CLM-2026-019557,CLM-2026-019557,PAY-MCR-001,Medicare Part B,2026-10-13,99214,264.00,0,"remittance dated before the date of service; claim submitted 2026-03-26, before the date of service 2026-10-13; date of service 2026-10-13 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-019660,CLM-2026-019660,PAY-HUM-007,Humana Medicare Advantage,2025-12-22,99214,264.00,0,"claim submitted 2025-12-19, before the date of service 2025-12-22"
+DQ-11,MEDIUM,claim,CLM-2026-020123,CLM-2026-020123,PAY-TRC-008,TRICARE East,2026-09-05,90471,41.00,0,"remittance dated before the date of service; claim submitted 2025-09-15, before the date of service 2026-09-05; date of service 2026-09-05 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-020338,CLM-2026-020338,PAY-BCB-003,Blue Cross Blue Shield,2025-10-20,99213,185.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-020565,CLM-2026-020565,PAY-BCB-003,Blue Cross Blue Shield,2025-07-28,73630,89.00,0,"claim submitted 2025-07-25, before the date of service 2025-07-28"
+DQ-11,MEDIUM,claim,CLM-2026-020768,CLM-2026-020768,PAY-MCD-002,State Medicaid,2025-07-19,99396,312.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-020825,CLM-2026-020825,PAY-BCB-003,Blue Cross Blue Shield,2025-10-16,20610,223.00,0,"claim submitted 2025-10-14, before the date of service 2025-10-16"
+DQ-11,MEDIUM,claim,CLM-2026-020968,CLM-2026-020968,PAY-BCB-003,Blue Cross Blue Shield,2026-06-19,99215,369.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-021482,CLM-2026-021482,PAY-MCR-001,Medicare Part B,2026-03-29,73630,89.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-021569,CLM-2026-021569,PAY-HUM-007,Humana Medicare Advantage,2025-12-12,20610,223.00,0,"claim submitted 2025-12-10, before the date of service 2025-12-12"
+DQ-11,MEDIUM,claim,CLM-2026-021794,CLM-2026-021794,PAY-MCD-002,State Medicaid,2026-09-29,90471,41.00,0,"remittance dated before the date of service; claim submitted 2026-01-03, before the date of service 2026-09-29; date of service 2026-09-29 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-022064,CLM-2026-022064,PAY-UHC-004,UnitedHealthcare,2025-08-21,87635,102.00,0,"claim submitted 2025-08-13, before the date of service 2025-08-21"
+DQ-11,MEDIUM,claim,CLM-2026-022420,CLM-2026-022420,PAY-BCB-003,Blue Cross Blue Shield,2026-04-18,99214,264.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-022929,CLM-2026-022929,PAY-WCP-009,Workers Compensation Fund,2026-10-07,90471,41.00,0,"claim submitted 2025-11-20, before the date of service 2026-10-07; date of service 2026-10-07 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-023168,CLM-2026-023168,PAY-UHC-004,UnitedHealthcare,2026-04-05,71046,97.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-023342,CLM-2026-023342,PAY-MCR-001,Medicare Part B,2025-09-20,36415,18.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-023354,CLM-2026-023354,PAY-UHC-004,UnitedHealthcare,2026-10-22,73630,267.00,0,"claim submitted 2025-07-21, before the date of service 2026-10-22; date of service 2026-10-22 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-023618,CLM-2026-023618,PAY-CIG-006,Cigna,2025-11-10,90471,41.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-023868,CLM-2026-023868,PAY-MCD-002,State Medicaid,2025-12-21,80053,62.00,0,remittance dated before the date of service
+DQ-11,MEDIUM,claim,CLM-2026-023990,CLM-2026-023990,PAY-MCR-001,Medicare Part B,2026-02-02,71046,97.00,0,"claim submitted 2026-01-31, before the date of service 2026-02-02"
+DQ-11,MEDIUM,claim,CLM-2026-023999,CLM-2026-023999,PAY-TRC-008,TRICARE East,2026-10-17,99204,375.00,0,"claim submitted 2026-02-27, before the date of service 2026-10-17; date of service 2026-10-17 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-024119,CLM-2026-024119,PAY-MCD-002,State Medicaid,2026-10-24,12001,588.00,0,"remittance dated before the date of service; claim submitted 2026-03-16, before the date of service 2026-10-24; date of service 2026-10-24 is in the future (audit date 2026-08-29)"
+DQ-11,MEDIUM,claim,CLM-2026-024562,CLM-2026-024562,PAY-MCR-001,Medicare Part B,2026-06-29,99214,264.00,0,"claim submitted 2026-06-21, before the date of service 2026-06-29"
+DQ-11,MEDIUM,claim,CLM-2026-024609,CLM-2026-024609,PAY-UHC-004,UnitedHealthcare,2026-02-15,71046,97.00,0,remittance dated before the date of service

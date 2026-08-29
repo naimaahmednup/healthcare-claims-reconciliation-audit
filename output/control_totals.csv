@@ -1,0 +1,2 @@
+claims_in_scope,claims_with_remittance,claims_without_remittance,billed_total,allowed_total,paid_total,patient_responsibility_total,adjustment_total,unreconciled_variance,billed_total_adjudicated,variance_adjudicated,abs_variance_adjudicated
+25140,23454,1686,4459219.00,2521842.10,2269048.95,252740.52,1653118.26,284311.27,4153600.00,-21307.73,31125.91

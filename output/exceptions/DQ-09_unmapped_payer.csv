@@ -1,0 +1,56 @@
+check_id,severity,entity_type,entity_key,claim_id,payer_id,payer_name,date_of_service,cpt_code,billed_amount,amount_impact,finding
+DQ-09,HIGH,claim,CLM-2026-000074,CLM-2026-000074,PAY-BCB-03,UNMAPPED,2026-05-10,99213,185.00,185.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-001672,CLM-2026-001672,PAY-XXX-999,UNMAPPED,2025-11-29,93000,74.00,74.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-001974,CLM-2026-001974,PAY-BCB-03,UNMAPPED,2026-02-14,99204,375.00,375.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-002286,CLM-2026-002286,,UNMAPPED,2026-05-11,80053,62.00,62.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-002483,CLM-2026-002483,,UNMAPPED,2025-10-02,73630,89.00,89.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-002885,CLM-2026-002885,PAY-BCB-03,UNMAPPED,2026-02-10,99203,248.00,248.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-003361,CLM-2026-003361,PAY-UNK-000,UNMAPPED,2026-06-25,99203,248.00,248.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-003460,CLM-2026-003460,,UNMAPPED,2025-10-07,80053,62.00,62.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-005036,CLM-2026-005036,PAY-BCB-03,UNMAPPED,2026-03-08,36415,18.00,18.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-006128,CLM-2026-006128,,UNMAPPED,2026-02-16,93000,74.00,74.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-006643,CLM-2026-006643,PAY-BCB-03,UNMAPPED,2025-09-12,87635,102.00,102.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-007110,CLM-2026-007110,,UNMAPPED,2026-03-31,87635,306.00,306.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-007694,CLM-2026-007694,,UNMAPPED,2025-07-30,36415,18.00,18.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-008132,CLM-2026-008132,PAY-XXX-999,UNMAPPED,2026-02-11,90471,41.00,41.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-009579,CLM-2026-009579,,UNMAPPED,2025-12-04,87635,102.00,102.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-009946,CLM-2026-009946,,UNMAPPED,2025-10-24,99215,369.00,369.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-010453,CLM-2026-010453,PAY-BCB-03,UNMAPPED,2026-06-26,71046,97.00,97.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-012343,CLM-2026-012343,PAY-UNK-000,UNMAPPED,2025-12-11,36415,54.00,54.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-012487,CLM-2026-012487,PAY-UNK-000,UNMAPPED,2025-12-01,93000,74.00,74.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-012597,CLM-2026-012597,PAY-XXX-999,UNMAPPED,2025-07-09,99213,185.00,185.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-012654,CLM-2026-012654,,UNMAPPED,2025-11-30,20610,223.00,223.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-012877,CLM-2026-012877,PAY-XXX-999,UNMAPPED,2026-05-10,99203,248.00,248.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-012948,CLM-2026-012948,,UNMAPPED,2026-06-16,87635,102.00,102.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-013349,CLM-2026-013349,,UNMAPPED,2026-04-06,36415,18.00,18.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-013875,CLM-2026-013875,PAY-BCB-03,UNMAPPED,2025-09-22,80053,62.00,62.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-014498,CLM-2026-014498,,UNMAPPED,2026-04-28,85025,48.00,48.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-014842,CLM-2026-014842,,UNMAPPED,2026-02-25,80053,62.00,62.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-014873,CLM-2026-014873,,UNMAPPED,2026-05-26,80053,62.00,62.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-015835,CLM-2026-015835,,UNMAPPED,2026-06-20,93000,222.00,222.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-016148,CLM-2026-016148,PAY-XXX-999,UNMAPPED,2026-03-15,99396,312.00,312.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-016472,CLM-2026-016472,,UNMAPPED,2025-12-17,99203,248.00,248.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-017188,CLM-2026-017188,PAY-BCB-03,UNMAPPED,2026-02-27,90471,41.00,41.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-017920,CLM-2026-017920,PAY-XXX-999,UNMAPPED,2025-07-29,36415,18.00,18.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-017927,CLM-2026-017927,PAY-UNK-000,UNMAPPED,2026-03-29,85025,48.00,48.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-018528,CLM-2026-018528,PAY-BCB-03,UNMAPPED,2026-03-17,99396,312.00,312.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-018552,CLM-2026-018552,PAY-UNK-000,UNMAPPED,2025-09-02,99215,369.00,369.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-018553,CLM-2026-018553,PAY-UNK-000,UNMAPPED,2026-02-19,90471,41.00,41.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-018696,CLM-2026-018696,PAY-UNK-000,UNMAPPED,2026-02-03,85025,48.00,48.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-019720,CLM-2026-019720,PAY-XXX-999,UNMAPPED,2025-09-03,99213,185.00,185.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-019847,CLM-2026-019847,PAY-UNK-000,UNMAPPED,2025-08-08,99204,750.00,750.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-020043,CLM-2026-020043,PAY-BCB-03,UNMAPPED,2026-01-19,90471,123.00,123.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-020152,CLM-2026-020152,PAY-BCB-03,UNMAPPED,2026-01-27,99203,248.00,248.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-020415,CLM-2026-020415,PAY-UNK-000,UNMAPPED,2025-12-24,87635,102.00,102.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-021169,CLM-2026-021169,,UNMAPPED,2025-07-31,73630,89.00,89.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-021602,CLM-2026-021602,PAY-XXX-999,UNMAPPED,2026-05-03,99213,185.00,185.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-021666,CLM-2026-021666,PAY-XXX-999,UNMAPPED,2026-06-15,99203,248.00,248.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-021822,CLM-2026-021822,,UNMAPPED,2025-09-06,99213,185.00,185.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-022450,CLM-2026-022450,PAY-XXX-999,UNMAPPED,2025-08-10,85025,48.00,48.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-022562,CLM-2026-022562,PAY-UNK-000,UNMAPPED,2026-06-29,71046,97.00,97.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-022791,CLM-2026-022791,,UNMAPPED,2026-04-27,99213,185.00,185.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-022839,CLM-2026-022839,,UNMAPPED,2025-07-19,85025,48.00,48.00,payer_id is blank on the claim record
+DQ-09,HIGH,claim,CLM-2026-023090,CLM-2026-023090,PAY-UNK-000,UNMAPPED,2026-01-03,99203,248.00,248.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-023753,CLM-2026-023753,PAY-UNK-000,UNMAPPED,2025-12-30,99204,375.00,375.00,"payer_id PAY-UNK-000 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-024358,CLM-2026-024358,PAY-XXX-999,UNMAPPED,2026-01-07,99214,264.00,264.00,"payer_id PAY-XXX-999 is not present in the payer master (claim carries name ""UNMAPPED"")"
+DQ-09,HIGH,claim,CLM-2026-024994,CLM-2026-024994,PAY-BCB-03,UNMAPPED,2026-04-11,36415,18.00,18.00,"payer_id PAY-BCB-03 is not present in the payer master (claim carries name ""UNMAPPED"")"

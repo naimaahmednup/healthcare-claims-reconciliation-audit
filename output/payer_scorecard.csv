@@ -1,0 +1,14 @@
+payer_id,payer_name,claims,billed_total,exceptions,financial_impact_usd,exceptions_per_1000_claims
+UNMAPPED,Unmapped / unknown payer,20,2574.00,20,2574.00,1000.0
+PAY-UNK-000,Unmapped / unknown payer,12,2454.00,12,2454.00,1000.0
+PAY-BCB-03,Unmapped / unknown payer,12,1829.00,12,1829.00,1000.0
+PAY-XXX-999,Unmapped / unknown payer,11,1808.00,11,1808.00,1000.0
+PAY-TRC-008,TRICARE East,752,134830.00,49,3994.93,65.2
+PAY-HUM-007,Humana Medicare Advantage,1684,299464.00,99,11928.39,58.8
+PAY-AET-005,Aetna,2411,430977.00,137,13171.56,56.8
+PAY-CIG-006,Cigna,1735,305874.00,97,6637.78,55.9
+PAY-MCD-002,State Medicaid,3352,584768.00,183,16669.43,54.6
+PAY-BCB-003,Blue Cross Blue Shield,4537,812176.00,242,22584.12,53.3
+PAY-WCP-009,Workers Compensation Fund,512,88757.00,26,2101.38,50.8
+PAY-MCR-001,Medicare Part B,6548,1155908.00,327,27453.58,49.9
+PAY-UHC-004,UnitedHealthcare,3554,637800.00,165,15910.38,46.4
