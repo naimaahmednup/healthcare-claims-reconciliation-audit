@@ -1,0 +1,1381 @@
+defect_ref,check_id,entity_type,entity_key,description
+INJ-0001,DQ-01,claim,CLM-2026-019445,Exact claim_id re-submitted under a resend batch
+INJ-0002,DQ-01,claim,CLM-2026-012305,Exact claim_id re-submitted under a resend batch
+INJ-0003,DQ-01,claim,CLM-2026-011985,Exact claim_id re-submitted under a resend batch
+INJ-0004,DQ-01,claim,CLM-2026-010549,Exact claim_id re-submitted under a resend batch
+INJ-0005,DQ-01,claim,CLM-2026-002609,Exact claim_id re-submitted under a resend batch
+INJ-0006,DQ-01,claim,CLM-2026-005736,Exact claim_id re-submitted under a resend batch
+INJ-0007,DQ-01,claim,CLM-2026-016993,Exact claim_id re-submitted under a resend batch
+INJ-0008,DQ-01,claim,CLM-2026-008342,Exact claim_id re-submitted under a resend batch
+INJ-0009,DQ-01,claim,CLM-2026-007793,Exact claim_id re-submitted under a resend batch
+INJ-0010,DQ-01,claim,CLM-2026-011124,Exact claim_id re-submitted under a resend batch
+INJ-0011,DQ-01,claim,CLM-2026-002902,Exact claim_id re-submitted under a resend batch
+INJ-0012,DQ-01,claim,CLM-2026-020990,Exact claim_id re-submitted under a resend batch
+INJ-0013,DQ-01,claim,CLM-2026-017192,Exact claim_id re-submitted under a resend batch
+INJ-0014,DQ-01,claim,CLM-2026-018314,Exact claim_id re-submitted under a resend batch
+INJ-0015,DQ-01,claim,CLM-2026-002267,Exact claim_id re-submitted under a resend batch
+INJ-0016,DQ-01,claim,CLM-2026-014879,Exact claim_id re-submitted under a resend batch
+INJ-0017,DQ-01,claim,CLM-2026-022633,Exact claim_id re-submitted under a resend batch
+INJ-0018,DQ-01,claim,CLM-2026-003961,Exact claim_id re-submitted under a resend batch
+INJ-0019,DQ-01,claim,CLM-2026-013024,Exact claim_id re-submitted under a resend batch
+INJ-0020,DQ-01,claim,CLM-2026-003428,Exact claim_id re-submitted under a resend batch
+INJ-0021,DQ-01,claim,CLM-2026-005639,Exact claim_id re-submitted under a resend batch
+INJ-0022,DQ-01,claim,CLM-2026-005958,Exact claim_id re-submitted under a resend batch
+INJ-0023,DQ-01,claim,CLM-2026-019764,Exact claim_id re-submitted under a resend batch
+INJ-0024,DQ-01,claim,CLM-2026-002942,Exact claim_id re-submitted under a resend batch
+INJ-0025,DQ-01,claim,CLM-2026-013675,Exact claim_id re-submitted under a resend batch
+INJ-0026,DQ-01,claim,CLM-2026-006775,Exact claim_id re-submitted under a resend batch
+INJ-0027,DQ-01,claim,CLM-2026-002021,Exact claim_id re-submitted under a resend batch
+INJ-0028,DQ-01,claim,CLM-2026-004323,Exact claim_id re-submitted under a resend batch
+INJ-0029,DQ-01,claim,CLM-2026-003906,Exact claim_id re-submitted under a resend batch
+INJ-0030,DQ-01,claim,CLM-2026-004243,Exact claim_id re-submitted under a resend batch
+INJ-0031,DQ-01,claim,CLM-2026-006791,Exact claim_id re-submitted under a resend batch
+INJ-0032,DQ-01,claim,CLM-2026-023945,Exact claim_id re-submitted under a resend batch
+INJ-0033,DQ-01,claim,CLM-2026-020903,Exact claim_id re-submitted under a resend batch
+INJ-0034,DQ-01,claim,CLM-2026-018117,Exact claim_id re-submitted under a resend batch
+INJ-0035,DQ-01,claim,CLM-2026-007785,Exact claim_id re-submitted under a resend batch
+INJ-0036,DQ-01,claim,CLM-2026-002383,Exact claim_id re-submitted under a resend batch
+INJ-0037,DQ-01,claim,CLM-2026-023672,Exact claim_id re-submitted under a resend batch
+INJ-0038,DQ-01,claim,CLM-2026-005782,Exact claim_id re-submitted under a resend batch
+INJ-0039,DQ-01,claim,CLM-2026-011083,Exact claim_id re-submitted under a resend batch
+INJ-0040,DQ-01,claim,CLM-2026-002504,Exact claim_id re-submitted under a resend batch
+INJ-0041,DQ-01,claim,CLM-2026-017606,Exact claim_id re-submitted under a resend batch
+INJ-0042,DQ-01,claim,CLM-2026-013083,Exact claim_id re-submitted under a resend batch
+INJ-0043,DQ-01,claim,CLM-2026-019822,Exact claim_id re-submitted under a resend batch
+INJ-0044,DQ-01,claim,CLM-2026-012124,Exact claim_id re-submitted under a resend batch
+INJ-0045,DQ-01,claim,CLM-2026-009922,Exact claim_id re-submitted under a resend batch
+INJ-0046,DQ-01,claim,CLM-2026-024851,Exact claim_id re-submitted under a resend batch
+INJ-0047,DQ-01,claim,CLM-2026-016764,Exact claim_id re-submitted under a resend batch
+INJ-0048,DQ-01,claim,CLM-2026-017415,Exact claim_id re-submitted under a resend batch
+INJ-0049,DQ-01,claim,CLM-2026-015225,Exact claim_id re-submitted under a resend batch
+INJ-0050,DQ-01,claim,CLM-2026-011587,Exact claim_id re-submitted under a resend batch
+INJ-0051,DQ-01,claim,CLM-2026-007680,Exact claim_id re-submitted under a resend batch
+INJ-0052,DQ-01,claim,CLM-2026-000678,Exact claim_id re-submitted under a resend batch
+INJ-0053,DQ-01,claim,CLM-2026-015570,Exact claim_id re-submitted under a resend batch
+INJ-0054,DQ-01,claim,CLM-2026-023205,Exact claim_id re-submitted under a resend batch
+INJ-0055,DQ-01,claim,CLM-2026-009160,Exact claim_id re-submitted under a resend batch
+INJ-0056,DQ-01,claim,CLM-2026-002288,Exact claim_id re-submitted under a resend batch
+INJ-0057,DQ-01,claim,CLM-2026-020773,Exact claim_id re-submitted under a resend batch
+INJ-0058,DQ-01,claim,CLM-2026-006374,Exact claim_id re-submitted under a resend batch
+INJ-0059,DQ-01,claim,CLM-2026-014941,Exact claim_id re-submitted under a resend batch
+INJ-0060,DQ-01,claim,CLM-2026-003942,Exact claim_id re-submitted under a resend batch
+INJ-0061,DQ-01,claim,CLM-2026-005796,Exact claim_id re-submitted under a resend batch
+INJ-0062,DQ-01,claim,CLM-2026-005264,Exact claim_id re-submitted under a resend batch
+INJ-0063,DQ-01,claim,CLM-2026-019787,Exact claim_id re-submitted under a resend batch
+INJ-0064,DQ-01,claim,CLM-2026-004274,Exact claim_id re-submitted under a resend batch
+INJ-0065,DQ-01,claim,CLM-2026-003608,Exact claim_id re-submitted under a resend batch
+INJ-0066,DQ-01,claim,CLM-2026-012098,Exact claim_id re-submitted under a resend batch
+INJ-0067,DQ-01,claim,CLM-2026-022351,Exact claim_id re-submitted under a resend batch
+INJ-0068,DQ-01,claim,CLM-2026-015545,Exact claim_id re-submitted under a resend batch
+INJ-0069,DQ-01,claim,CLM-2026-024749,Exact claim_id re-submitted under a resend batch
+INJ-0070,DQ-01,claim,CLM-2026-007574,Exact claim_id re-submitted under a resend batch
+INJ-0071,DQ-01,claim,CLM-2026-024842,Exact claim_id re-submitted under a resend batch
+INJ-0072,DQ-01,claim,CLM-2026-023546,Exact claim_id re-submitted under a resend batch
+INJ-0073,DQ-01,claim,CLM-2026-010074,Exact claim_id re-submitted under a resend batch
+INJ-0074,DQ-01,claim,CLM-2026-015632,Exact claim_id re-submitted under a resend batch
+INJ-0075,DQ-01,claim,CLM-2026-020920,Exact claim_id re-submitted under a resend batch
+INJ-0076,DQ-01,claim,CLM-2026-023216,Exact claim_id re-submitted under a resend batch
+INJ-0077,DQ-01,claim,CLM-2026-024661,Exact claim_id re-submitted under a resend batch
+INJ-0078,DQ-01,claim,CLM-2026-023095,Exact claim_id re-submitted under a resend batch
+INJ-0079,DQ-01,claim,CLM-2026-002681,Exact claim_id re-submitted under a resend batch
+INJ-0080,DQ-01,claim,CLM-2026-020421,Exact claim_id re-submitted under a resend batch
+INJ-0081,DQ-01,claim,CLM-2026-020844,Exact claim_id re-submitted under a resend batch
+INJ-0082,DQ-01,claim,CLM-2026-009415,Exact claim_id re-submitted under a resend batch
+INJ-0083,DQ-01,claim,CLM-2026-008003,Exact claim_id re-submitted under a resend batch
+INJ-0084,DQ-01,claim,CLM-2026-015590,Exact claim_id re-submitted under a resend batch
+INJ-0085,DQ-01,claim,CLM-2026-017556,Exact claim_id re-submitted under a resend batch
+INJ-0086,DQ-01,claim,CLM-2026-014429,Exact claim_id re-submitted under a resend batch
+INJ-0087,DQ-01,claim,CLM-2026-003852,Exact claim_id re-submitted under a resend batch
+INJ-0088,DQ-01,claim,CLM-2026-008399,Exact claim_id re-submitted under a resend batch
+INJ-0089,DQ-01,claim,CLM-2026-013684,Exact claim_id re-submitted under a resend batch
+INJ-0090,DQ-01,claim,CLM-2026-023358,Exact claim_id re-submitted under a resend batch
+INJ-0091,DQ-02,claim,CLM-2026-900001,"Duplicate billing fingerprint of CLM-2026-007297 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0092,DQ-02,claim,CLM-2026-900002,"Duplicate billing fingerprint of CLM-2026-007788 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0093,DQ-02,claim,CLM-2026-900003,"Duplicate billing fingerprint of CLM-2026-004495 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0094,DQ-02,claim,CLM-2026-900004,"Duplicate billing fingerprint of CLM-2026-020833 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0095,DQ-02,claim,CLM-2026-900005,"Duplicate billing fingerprint of CLM-2026-007867 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0096,DQ-02,claim,CLM-2026-900006,"Duplicate billing fingerprint of CLM-2026-012404 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0097,DQ-02,claim,CLM-2026-900007,"Duplicate billing fingerprint of CLM-2026-020313 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0098,DQ-02,claim,CLM-2026-900008,"Duplicate billing fingerprint of CLM-2026-024444 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0099,DQ-02,claim,CLM-2026-900009,"Duplicate billing fingerprint of CLM-2026-015306 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0100,DQ-02,claim,CLM-2026-900010,"Duplicate billing fingerprint of CLM-2026-021517 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0101,DQ-02,claim,CLM-2026-900011,"Duplicate billing fingerprint of CLM-2026-010180 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0102,DQ-02,claim,CLM-2026-900012,"Duplicate billing fingerprint of CLM-2026-008059 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0103,DQ-02,claim,CLM-2026-900013,"Duplicate billing fingerprint of CLM-2026-013048 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0104,DQ-02,claim,CLM-2026-900014,"Duplicate billing fingerprint of CLM-2026-002670 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0105,DQ-02,claim,CLM-2026-900015,"Duplicate billing fingerprint of CLM-2026-017918 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0106,DQ-02,claim,CLM-2026-900016,"Duplicate billing fingerprint of CLM-2026-007585 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0107,DQ-02,claim,CLM-2026-900017,"Duplicate billing fingerprint of CLM-2026-014367 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0108,DQ-02,claim,CLM-2026-900018,"Duplicate billing fingerprint of CLM-2026-022706 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0109,DQ-02,claim,CLM-2026-900019,"Duplicate billing fingerprint of CLM-2026-017813 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0110,DQ-02,claim,CLM-2026-900020,"Duplicate billing fingerprint of CLM-2026-018610 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0111,DQ-02,claim,CLM-2026-900021,"Duplicate billing fingerprint of CLM-2026-013956 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0112,DQ-02,claim,CLM-2026-900022,"Duplicate billing fingerprint of CLM-2026-008071 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0113,DQ-02,claim,CLM-2026-900023,"Duplicate billing fingerprint of CLM-2026-003143 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0114,DQ-02,claim,CLM-2026-900024,"Duplicate billing fingerprint of CLM-2026-001729 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0115,DQ-02,claim,CLM-2026-900025,"Duplicate billing fingerprint of CLM-2026-010804 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0116,DQ-02,claim,CLM-2026-900026,"Duplicate billing fingerprint of CLM-2026-018362 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0117,DQ-02,claim,CLM-2026-900027,"Duplicate billing fingerprint of CLM-2026-004680 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0118,DQ-02,claim,CLM-2026-900028,"Duplicate billing fingerprint of CLM-2026-000187 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0119,DQ-02,claim,CLM-2026-900029,"Duplicate billing fingerprint of CLM-2026-019326 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0120,DQ-02,claim,CLM-2026-900030,"Duplicate billing fingerprint of CLM-2026-015115 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0121,DQ-02,claim,CLM-2026-900031,"Duplicate billing fingerprint of CLM-2026-000160 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0122,DQ-02,claim,CLM-2026-900032,"Duplicate billing fingerprint of CLM-2026-002009 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0123,DQ-02,claim,CLM-2026-900033,"Duplicate billing fingerprint of CLM-2026-016096 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0124,DQ-02,claim,CLM-2026-900034,"Duplicate billing fingerprint of CLM-2026-023681 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0125,DQ-02,claim,CLM-2026-900035,"Duplicate billing fingerprint of CLM-2026-019353 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0126,DQ-02,claim,CLM-2026-900036,"Duplicate billing fingerprint of CLM-2026-016246 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0127,DQ-02,claim,CLM-2026-900037,"Duplicate billing fingerprint of CLM-2026-002528 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0128,DQ-02,claim,CLM-2026-900038,"Duplicate billing fingerprint of CLM-2026-010239 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0129,DQ-02,claim,CLM-2026-900039,"Duplicate billing fingerprint of CLM-2026-002124 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0130,DQ-02,claim,CLM-2026-900040,"Duplicate billing fingerprint of CLM-2026-007223 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0131,DQ-02,claim,CLM-2026-900041,"Duplicate billing fingerprint of CLM-2026-007229 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0132,DQ-02,claim,CLM-2026-900042,"Duplicate billing fingerprint of CLM-2026-005394 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0133,DQ-02,claim,CLM-2026-900043,"Duplicate billing fingerprint of CLM-2026-010842 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0134,DQ-02,claim,CLM-2026-900044,"Duplicate billing fingerprint of CLM-2026-023991 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0135,DQ-02,claim,CLM-2026-900045,"Duplicate billing fingerprint of CLM-2026-020645 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0136,DQ-02,claim,CLM-2026-900046,"Duplicate billing fingerprint of CLM-2026-012663 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0137,DQ-02,claim,CLM-2026-900047,"Duplicate billing fingerprint of CLM-2026-005567 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0138,DQ-02,claim,CLM-2026-900048,"Duplicate billing fingerprint of CLM-2026-003124 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0139,DQ-02,claim,CLM-2026-900049,"Duplicate billing fingerprint of CLM-2026-018530 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0140,DQ-02,claim,CLM-2026-900050,"Duplicate billing fingerprint of CLM-2026-012927 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0141,DQ-02,claim,CLM-2026-900051,"Duplicate billing fingerprint of CLM-2026-011437 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0142,DQ-02,claim,CLM-2026-900052,"Duplicate billing fingerprint of CLM-2026-000860 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0143,DQ-02,claim,CLM-2026-900053,"Duplicate billing fingerprint of CLM-2026-000699 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0144,DQ-02,claim,CLM-2026-900054,"Duplicate billing fingerprint of CLM-2026-023912 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0145,DQ-02,claim,CLM-2026-900055,"Duplicate billing fingerprint of CLM-2026-006369 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0146,DQ-02,claim,CLM-2026-900056,"Duplicate billing fingerprint of CLM-2026-003037 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0147,DQ-02,claim,CLM-2026-900057,"Duplicate billing fingerprint of CLM-2026-005353 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0148,DQ-02,claim,CLM-2026-900058,"Duplicate billing fingerprint of CLM-2026-005019 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0149,DQ-02,claim,CLM-2026-900059,"Duplicate billing fingerprint of CLM-2026-020163 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0150,DQ-02,claim,CLM-2026-900060,"Duplicate billing fingerprint of CLM-2026-020001 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0151,DQ-02,claim,CLM-2026-900061,"Duplicate billing fingerprint of CLM-2026-020719 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0152,DQ-02,claim,CLM-2026-900062,"Duplicate billing fingerprint of CLM-2026-000060 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0153,DQ-02,claim,CLM-2026-900063,"Duplicate billing fingerprint of CLM-2026-007648 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0154,DQ-02,claim,CLM-2026-900064,"Duplicate billing fingerprint of CLM-2026-004846 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0155,DQ-02,claim,CLM-2026-900065,"Duplicate billing fingerprint of CLM-2026-003270 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0156,DQ-02,claim,CLM-2026-900066,"Duplicate billing fingerprint of CLM-2026-022128 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0157,DQ-02,claim,CLM-2026-900067,"Duplicate billing fingerprint of CLM-2026-007544 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0158,DQ-02,claim,CLM-2026-900068,"Duplicate billing fingerprint of CLM-2026-004035 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0159,DQ-02,claim,CLM-2026-900069,"Duplicate billing fingerprint of CLM-2026-008823 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0160,DQ-02,claim,CLM-2026-900070,"Duplicate billing fingerprint of CLM-2026-007022 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0161,DQ-02,claim,CLM-2026-900071,"Duplicate billing fingerprint of CLM-2026-009892 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0162,DQ-02,claim,CLM-2026-900072,"Duplicate billing fingerprint of CLM-2026-018083 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0163,DQ-02,claim,CLM-2026-900073,"Duplicate billing fingerprint of CLM-2026-004890 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0164,DQ-02,claim,CLM-2026-900074,"Duplicate billing fingerprint of CLM-2026-005862 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0165,DQ-02,claim,CLM-2026-900075,"Duplicate billing fingerprint of CLM-2026-009758 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0166,DQ-02,claim,CLM-2026-900076,"Duplicate billing fingerprint of CLM-2026-019049 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0167,DQ-02,claim,CLM-2026-900077,"Duplicate billing fingerprint of CLM-2026-015055 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0168,DQ-02,claim,CLM-2026-900078,"Duplicate billing fingerprint of CLM-2026-013820 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0169,DQ-02,claim,CLM-2026-900079,"Duplicate billing fingerprint of CLM-2026-009510 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0170,DQ-02,claim,CLM-2026-900080,"Duplicate billing fingerprint of CLM-2026-013182 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0171,DQ-02,claim,CLM-2026-900081,"Duplicate billing fingerprint of CLM-2026-014657 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0172,DQ-02,claim,CLM-2026-900082,"Duplicate billing fingerprint of CLM-2026-016486 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0173,DQ-02,claim,CLM-2026-900083,"Duplicate billing fingerprint of CLM-2026-004472 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0174,DQ-02,claim,CLM-2026-900084,"Duplicate billing fingerprint of CLM-2026-010622 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0175,DQ-02,claim,CLM-2026-900085,"Duplicate billing fingerprint of CLM-2026-000809 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0176,DQ-02,claim,CLM-2026-900086,"Duplicate billing fingerprint of CLM-2026-012886 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0177,DQ-02,claim,CLM-2026-900087,"Duplicate billing fingerprint of CLM-2026-012532 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0178,DQ-02,claim,CLM-2026-900088,"Duplicate billing fingerprint of CLM-2026-009241 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0179,DQ-02,claim,CLM-2026-900089,"Duplicate billing fingerprint of CLM-2026-020005 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0180,DQ-02,claim,CLM-2026-900090,"Duplicate billing fingerprint of CLM-2026-005122 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0181,DQ-02,claim,CLM-2026-900091,"Duplicate billing fingerprint of CLM-2026-001626 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0182,DQ-02,claim,CLM-2026-900092,"Duplicate billing fingerprint of CLM-2026-001005 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0183,DQ-02,claim,CLM-2026-900093,"Duplicate billing fingerprint of CLM-2026-010542 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0184,DQ-02,claim,CLM-2026-900094,"Duplicate billing fingerprint of CLM-2026-008714 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0185,DQ-02,claim,CLM-2026-900095,"Duplicate billing fingerprint of CLM-2026-012594 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0186,DQ-02,claim,CLM-2026-900096,"Duplicate billing fingerprint of CLM-2026-007800 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0187,DQ-02,claim,CLM-2026-900097,"Duplicate billing fingerprint of CLM-2026-005658 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0188,DQ-02,claim,CLM-2026-900098,"Duplicate billing fingerprint of CLM-2026-014913 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0189,DQ-02,claim,CLM-2026-900099,"Duplicate billing fingerprint of CLM-2026-003406 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0190,DQ-02,claim,CLM-2026-900100,"Duplicate billing fingerprint of CLM-2026-004778 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0191,DQ-02,claim,CLM-2026-900101,"Duplicate billing fingerprint of CLM-2026-004554 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0192,DQ-02,claim,CLM-2026-900102,"Duplicate billing fingerprint of CLM-2026-003373 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0193,DQ-02,claim,CLM-2026-900103,"Duplicate billing fingerprint of CLM-2026-004259 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0194,DQ-02,claim,CLM-2026-900104,"Duplicate billing fingerprint of CLM-2026-002878 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0195,DQ-02,claim,CLM-2026-900105,"Duplicate billing fingerprint of CLM-2026-009827 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0196,DQ-02,claim,CLM-2026-900106,"Duplicate billing fingerprint of CLM-2026-007371 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0197,DQ-02,claim,CLM-2026-900107,"Duplicate billing fingerprint of CLM-2026-000385 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0198,DQ-02,claim,CLM-2026-900108,"Duplicate billing fingerprint of CLM-2026-018273 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0199,DQ-02,claim,CLM-2026-900109,"Duplicate billing fingerprint of CLM-2026-016143 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0200,DQ-02,claim,CLM-2026-900110,"Duplicate billing fingerprint of CLM-2026-022630 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0201,DQ-02,claim,CLM-2026-900111,"Duplicate billing fingerprint of CLM-2026-015747 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0202,DQ-02,claim,CLM-2026-900112,"Duplicate billing fingerprint of CLM-2026-003908 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0203,DQ-02,claim,CLM-2026-900113,"Duplicate billing fingerprint of CLM-2026-006522 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0204,DQ-02,claim,CLM-2026-900114,"Duplicate billing fingerprint of CLM-2026-022739 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0205,DQ-02,claim,CLM-2026-900115,"Duplicate billing fingerprint of CLM-2026-024756 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0206,DQ-02,claim,CLM-2026-900116,"Duplicate billing fingerprint of CLM-2026-012824 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0207,DQ-02,claim,CLM-2026-900117,"Duplicate billing fingerprint of CLM-2026-024394 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0208,DQ-02,claim,CLM-2026-900118,"Duplicate billing fingerprint of CLM-2026-015625 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0209,DQ-02,claim,CLM-2026-900119,"Duplicate billing fingerprint of CLM-2026-013344 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0210,DQ-02,claim,CLM-2026-900120,"Duplicate billing fingerprint of CLM-2026-005047 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0211,DQ-02,claim,CLM-2026-900121,"Duplicate billing fingerprint of CLM-2026-020134 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0212,DQ-02,claim,CLM-2026-900122,"Duplicate billing fingerprint of CLM-2026-022713 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0213,DQ-02,claim,CLM-2026-900123,"Duplicate billing fingerprint of CLM-2026-003651 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0214,DQ-02,claim,CLM-2026-900124,"Duplicate billing fingerprint of CLM-2026-007423 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0215,DQ-02,claim,CLM-2026-900125,"Duplicate billing fingerprint of CLM-2026-000969 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0216,DQ-02,claim,CLM-2026-900126,"Duplicate billing fingerprint of CLM-2026-013913 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0217,DQ-02,claim,CLM-2026-900127,"Duplicate billing fingerprint of CLM-2026-001645 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0218,DQ-02,claim,CLM-2026-900128,"Duplicate billing fingerprint of CLM-2026-015286 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0219,DQ-02,claim,CLM-2026-900129,"Duplicate billing fingerprint of CLM-2026-002334 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0220,DQ-02,claim,CLM-2026-900130,"Duplicate billing fingerprint of CLM-2026-013397 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0221,DQ-02,claim,CLM-2026-900131,"Duplicate billing fingerprint of CLM-2026-009273 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0222,DQ-02,claim,CLM-2026-900132,"Duplicate billing fingerprint of CLM-2026-006771 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0223,DQ-02,claim,CLM-2026-900133,"Duplicate billing fingerprint of CLM-2026-022224 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0224,DQ-02,claim,CLM-2026-900134,"Duplicate billing fingerprint of CLM-2026-018784 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0225,DQ-02,claim,CLM-2026-900135,"Duplicate billing fingerprint of CLM-2026-008449 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0226,DQ-02,claim,CLM-2026-900136,"Duplicate billing fingerprint of CLM-2026-000427 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0227,DQ-02,claim,CLM-2026-900137,"Duplicate billing fingerprint of CLM-2026-001179 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0228,DQ-02,claim,CLM-2026-900138,"Duplicate billing fingerprint of CLM-2026-002095 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0229,DQ-02,claim,CLM-2026-900139,"Duplicate billing fingerprint of CLM-2026-004277 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0230,DQ-02,claim,CLM-2026-900140,"Duplicate billing fingerprint of CLM-2026-008056 (same patient, DOS, CPT, charge) under a new claim id"
+INJ-0231,DQ-03,remit,RMT-0023515,Second posting of claim CLM-2026-006882 under the same check/EFT
+INJ-0232,DQ-03,remit,RMT-0023516,Second posting of claim CLM-2026-008444 under the same check/EFT
+INJ-0233,DQ-03,remit,RMT-0023517,Second posting of claim CLM-2026-024262 under the same check/EFT
+INJ-0234,DQ-03,remit,RMT-0023518,Second posting of claim CLM-2026-015873 under the same check/EFT
+INJ-0235,DQ-03,remit,RMT-0023519,Second posting of claim CLM-2026-011310 under the same check/EFT
+INJ-0236,DQ-03,remit,RMT-0023520,Second posting of claim CLM-2026-003956 under the same check/EFT
+INJ-0237,DQ-03,remit,RMT-0023521,Second posting of claim CLM-2026-009593 under the same check/EFT
+INJ-0238,DQ-03,remit,RMT-0023522,Second posting of claim CLM-2026-022266 under the same check/EFT
+INJ-0239,DQ-03,remit,RMT-0023523,Second posting of claim CLM-2026-005033 under the same check/EFT
+INJ-0240,DQ-03,remit,RMT-0023524,Second posting of claim CLM-2026-003680 under the same check/EFT
+INJ-0241,DQ-03,remit,RMT-0023525,Second posting of claim CLM-2026-010094 under the same check/EFT
+INJ-0242,DQ-03,remit,RMT-0023526,Second posting of claim CLM-2026-001072 under the same check/EFT
+INJ-0243,DQ-03,remit,RMT-0023527,Second posting of claim CLM-2026-022654 under the same check/EFT
+INJ-0244,DQ-03,remit,RMT-0023528,Second posting of claim CLM-2026-002718 under the same check/EFT
+INJ-0245,DQ-03,remit,RMT-0023529,Second posting of claim CLM-2026-023811 under the same check/EFT
+INJ-0246,DQ-03,remit,RMT-0023530,Second posting of claim CLM-2026-020173 under the same check/EFT
+INJ-0247,DQ-03,remit,RMT-0023531,Second posting of claim CLM-2026-024378 under the same check/EFT
+INJ-0248,DQ-03,remit,RMT-0023532,Second posting of claim CLM-2026-018356 under the same check/EFT
+INJ-0249,DQ-03,remit,RMT-0023533,Second posting of claim CLM-2026-011328 under the same check/EFT
+INJ-0250,DQ-03,remit,RMT-0023534,Second posting of claim CLM-2026-007546 under the same check/EFT
+INJ-0251,DQ-03,remit,RMT-0023535,Second posting of claim CLM-2026-017226 under the same check/EFT
+INJ-0252,DQ-03,remit,RMT-0023536,Second posting of claim CLM-2026-023380 under the same check/EFT
+INJ-0253,DQ-03,remit,RMT-0023537,Second posting of claim CLM-2026-007070 under the same check/EFT
+INJ-0254,DQ-03,remit,RMT-0023538,Second posting of claim CLM-2026-004630 under the same check/EFT
+INJ-0255,DQ-03,remit,RMT-0023539,Second posting of claim CLM-2026-023633 under the same check/EFT
+INJ-0256,DQ-03,remit,RMT-0023540,Second posting of claim CLM-2026-000348 under the same check/EFT
+INJ-0257,DQ-03,remit,RMT-0023541,Second posting of claim CLM-2026-015762 under the same check/EFT
+INJ-0258,DQ-03,remit,RMT-0023542,Second posting of claim CLM-2026-002094 under the same check/EFT
+INJ-0259,DQ-03,remit,RMT-0023543,Second posting of claim CLM-2026-005811 under the same check/EFT
+INJ-0260,DQ-03,remit,RMT-0023544,Second posting of claim CLM-2026-010621 under the same check/EFT
+INJ-0261,DQ-03,remit,RMT-0023545,Second posting of claim CLM-2026-018991 under the same check/EFT
+INJ-0262,DQ-03,remit,RMT-0023546,Second posting of claim CLM-2026-000380 under the same check/EFT
+INJ-0263,DQ-03,remit,RMT-0023547,Second posting of claim CLM-2026-016106 under the same check/EFT
+INJ-0264,DQ-03,remit,RMT-0023548,Second posting of claim CLM-2026-018438 under the same check/EFT
+INJ-0265,DQ-03,remit,RMT-0023549,Second posting of claim CLM-2026-015107 under the same check/EFT
+INJ-0266,DQ-03,remit,RMT-0023550,Second posting of claim CLM-2026-022134 under the same check/EFT
+INJ-0267,DQ-03,remit,RMT-0023551,Second posting of claim CLM-2026-007384 under the same check/EFT
+INJ-0268,DQ-03,remit,RMT-0023552,Second posting of claim CLM-2026-008709 under the same check/EFT
+INJ-0269,DQ-03,remit,RMT-0023553,Second posting of claim CLM-2026-017224 under the same check/EFT
+INJ-0270,DQ-03,remit,RMT-0023554,Second posting of claim CLM-2026-006956 under the same check/EFT
+INJ-0271,DQ-03,remit,RMT-0023555,Second posting of claim CLM-2026-013643 under the same check/EFT
+INJ-0272,DQ-03,remit,RMT-0023556,Second posting of claim CLM-2026-011245 under the same check/EFT
+INJ-0273,DQ-03,remit,RMT-0023557,Second posting of claim CLM-2026-017623 under the same check/EFT
+INJ-0274,DQ-03,remit,RMT-0023558,Second posting of claim CLM-2026-001060 under the same check/EFT
+INJ-0275,DQ-03,remit,RMT-0023559,Second posting of claim CLM-2026-024972 under the same check/EFT
+INJ-0276,DQ-03,remit,RMT-0023560,Second posting of claim CLM-2026-009202 under the same check/EFT
+INJ-0277,DQ-03,remit,RMT-0023561,Second posting of claim CLM-2026-001892 under the same check/EFT
+INJ-0278,DQ-03,remit,RMT-0023562,Second posting of claim CLM-2026-006320 under the same check/EFT
+INJ-0279,DQ-03,remit,RMT-0023563,Second posting of claim CLM-2026-021202 under the same check/EFT
+INJ-0280,DQ-03,remit,RMT-0023564,Second posting of claim CLM-2026-024145 under the same check/EFT
+INJ-0281,DQ-03,remit,RMT-0023565,Second posting of claim CLM-2026-000287 under the same check/EFT
+INJ-0282,DQ-03,remit,RMT-0023566,Second posting of claim CLM-2026-011066 under the same check/EFT
+INJ-0283,DQ-03,remit,RMT-0023567,Second posting of claim CLM-2026-023842 under the same check/EFT
+INJ-0284,DQ-03,remit,RMT-0023568,Second posting of claim CLM-2026-009895 under the same check/EFT
+INJ-0285,DQ-03,remit,RMT-0023569,Second posting of claim CLM-2026-007956 under the same check/EFT
+INJ-0286,DQ-03,remit,RMT-0023570,Second posting of claim CLM-2026-004982 under the same check/EFT
+INJ-0287,DQ-03,remit,RMT-0023571,Second posting of claim CLM-2026-010946 under the same check/EFT
+INJ-0288,DQ-03,remit,RMT-0023572,Second posting of claim CLM-2026-017575 under the same check/EFT
+INJ-0289,DQ-03,remit,RMT-0023573,Second posting of claim CLM-2026-016985 under the same check/EFT
+INJ-0290,DQ-03,remit,RMT-0023574,Second posting of claim CLM-2026-003218 under the same check/EFT
+INJ-0291,DQ-03,remit,RMT-0023575,Second posting of claim CLM-2026-007029 under the same check/EFT
+INJ-0292,DQ-03,remit,RMT-0023576,Second posting of claim CLM-2026-011203 under the same check/EFT
+INJ-0293,DQ-03,remit,RMT-0023577,Second posting of claim CLM-2026-001996 under the same check/EFT
+INJ-0294,DQ-03,remit,RMT-0023578,Second posting of claim CLM-2026-012373 under the same check/EFT
+INJ-0295,DQ-03,remit,RMT-0023579,Second posting of claim CLM-2026-001827 under the same check/EFT
+INJ-0296,DQ-03,remit,RMT-0023580,Second posting of claim CLM-2026-018106 under the same check/EFT
+INJ-0297,DQ-03,remit,RMT-0023581,Second posting of claim CLM-2026-018013 under the same check/EFT
+INJ-0298,DQ-03,remit,RMT-0023582,Second posting of claim CLM-2026-021849 under the same check/EFT
+INJ-0299,DQ-03,remit,RMT-0023583,Second posting of claim CLM-2026-014846 under the same check/EFT
+INJ-0300,DQ-03,remit,RMT-0023584,Second posting of claim CLM-2026-003381 under the same check/EFT
+INJ-0301,DQ-03,remit,RMT-0023585,Second posting of claim CLM-2026-013722 under the same check/EFT
+INJ-0302,DQ-03,remit,RMT-0023586,Second posting of claim CLM-2026-021136 under the same check/EFT
+INJ-0303,DQ-03,remit,RMT-0023587,Second posting of claim CLM-2026-011446 under the same check/EFT
+INJ-0304,DQ-03,remit,RMT-0023588,Second posting of claim CLM-2026-003171 under the same check/EFT
+INJ-0305,DQ-03,remit,RMT-0023589,Second posting of claim CLM-2026-023154 under the same check/EFT
+INJ-0306,DQ-04,remit,RMT-0023590,"Remittance posted against claim CLM-2026-800001, absent from the claims feed"
+INJ-0307,DQ-04,remit,RMT-0023591,"Remittance posted against claim CLM-2026-800002, absent from the claims feed"
+INJ-0308,DQ-04,remit,RMT-0023592,"Remittance posted against claim CLM-2026-800003, absent from the claims feed"
+INJ-0309,DQ-04,remit,RMT-0023593,"Remittance posted against claim CLM-2026-800004, absent from the claims feed"
+INJ-0310,DQ-04,remit,RMT-0023594,"Remittance posted against claim CLM-2026-800005, absent from the claims feed"
+INJ-0311,DQ-04,remit,RMT-0023595,"Remittance posted against claim CLM-2026-800006, absent from the claims feed"
+INJ-0312,DQ-04,remit,RMT-0023596,"Remittance posted against claim CLM-2026-800007, absent from the claims feed"
+INJ-0313,DQ-04,remit,RMT-0023597,"Remittance posted against claim CLM-2026-800008, absent from the claims feed"
+INJ-0314,DQ-04,remit,RMT-0023598,"Remittance posted against claim CLM-2026-800009, absent from the claims feed"
+INJ-0315,DQ-04,remit,RMT-0023599,"Remittance posted against claim CLM-2026-800010, absent from the claims feed"
+INJ-0316,DQ-04,remit,RMT-0023600,"Remittance posted against claim CLM-2026-800011, absent from the claims feed"
+INJ-0317,DQ-04,remit,RMT-0023601,"Remittance posted against claim CLM-2026-800012, absent from the claims feed"
+INJ-0318,DQ-04,remit,RMT-0023602,"Remittance posted against claim CLM-2026-800013, absent from the claims feed"
+INJ-0319,DQ-04,remit,RMT-0023603,"Remittance posted against claim CLM-2026-800014, absent from the claims feed"
+INJ-0320,DQ-04,remit,RMT-0023604,"Remittance posted against claim CLM-2026-800015, absent from the claims feed"
+INJ-0321,DQ-04,remit,RMT-0023605,"Remittance posted against claim CLM-2026-800016, absent from the claims feed"
+INJ-0322,DQ-04,remit,RMT-0023606,"Remittance posted against claim CLM-2026-800017, absent from the claims feed"
+INJ-0323,DQ-04,remit,RMT-0023607,"Remittance posted against claim CLM-2026-800018, absent from the claims feed"
+INJ-0324,DQ-04,remit,RMT-0023608,"Remittance posted against claim CLM-2026-800019, absent from the claims feed"
+INJ-0325,DQ-04,remit,RMT-0023609,"Remittance posted against claim CLM-2026-800020, absent from the claims feed"
+INJ-0326,DQ-04,remit,RMT-0023610,"Remittance posted against claim CLM-2026-800021, absent from the claims feed"
+INJ-0327,DQ-04,remit,RMT-0023611,"Remittance posted against claim CLM-2026-800022, absent from the claims feed"
+INJ-0328,DQ-04,remit,RMT-0023612,"Remittance posted against claim CLM-2026-800023, absent from the claims feed"
+INJ-0329,DQ-04,remit,RMT-0023613,"Remittance posted against claim CLM-2026-800024, absent from the claims feed"
+INJ-0330,DQ-04,remit,RMT-0023614,"Remittance posted against claim CLM-2026-800025, absent from the claims feed"
+INJ-0331,DQ-04,remit,RMT-0023615,"Remittance posted against claim CLM-2026-800026, absent from the claims feed"
+INJ-0332,DQ-04,remit,RMT-0023616,"Remittance posted against claim CLM-2026-800027, absent from the claims feed"
+INJ-0333,DQ-04,remit,RMT-0023617,"Remittance posted against claim CLM-2026-800028, absent from the claims feed"
+INJ-0334,DQ-04,remit,RMT-0023618,"Remittance posted against claim CLM-2026-800029, absent from the claims feed"
+INJ-0335,DQ-04,remit,RMT-0023619,"Remittance posted against claim CLM-2026-800030, absent from the claims feed"
+INJ-0336,DQ-04,remit,RMT-0023620,"Remittance posted against claim CLM-2026-800031, absent from the claims feed"
+INJ-0337,DQ-04,remit,RMT-0023621,"Remittance posted against claim CLM-2026-800032, absent from the claims feed"
+INJ-0338,DQ-04,remit,RMT-0023622,"Remittance posted against claim CLM-2026-800033, absent from the claims feed"
+INJ-0339,DQ-04,remit,RMT-0023623,"Remittance posted against claim CLM-2026-800034, absent from the claims feed"
+INJ-0340,DQ-04,remit,RMT-0023624,"Remittance posted against claim CLM-2026-800035, absent from the claims feed"
+INJ-0341,DQ-04,remit,RMT-0023625,"Remittance posted against claim CLM-2026-800036, absent from the claims feed"
+INJ-0342,DQ-04,remit,RMT-0023626,"Remittance posted against claim CLM-2026-800037, absent from the claims feed"
+INJ-0343,DQ-04,remit,RMT-0023627,"Remittance posted against claim CLM-2026-800038, absent from the claims feed"
+INJ-0344,DQ-04,remit,RMT-0023628,"Remittance posted against claim CLM-2026-800039, absent from the claims feed"
+INJ-0345,DQ-04,remit,RMT-0023629,"Remittance posted against claim CLM-2026-800040, absent from the claims feed"
+INJ-0346,DQ-04,remit,RMT-0023630,"Remittance posted against claim CLM-2026-800041, absent from the claims feed"
+INJ-0347,DQ-04,remit,RMT-0023631,"Remittance posted against claim CLM-2026-800042, absent from the claims feed"
+INJ-0348,DQ-04,remit,RMT-0023632,"Remittance posted against claim CLM-2026-800043, absent from the claims feed"
+INJ-0349,DQ-04,remit,RMT-0023633,"Remittance posted against claim CLM-2026-800044, absent from the claims feed"
+INJ-0350,DQ-04,remit,RMT-0023634,"Remittance posted against claim CLM-2026-800045, absent from the claims feed"
+INJ-0351,DQ-04,remit,RMT-0023635,"Remittance posted against claim CLM-2026-800046, absent from the claims feed"
+INJ-0352,DQ-04,remit,RMT-0023636,"Remittance posted against claim CLM-2026-800047, absent from the claims feed"
+INJ-0353,DQ-04,remit,RMT-0023637,"Remittance posted against claim CLM-2026-800048, absent from the claims feed"
+INJ-0354,DQ-04,remit,RMT-0023638,"Remittance posted against claim CLM-2026-800049, absent from the claims feed"
+INJ-0355,DQ-04,remit,RMT-0023639,"Remittance posted against claim CLM-2026-800050, absent from the claims feed"
+INJ-0356,DQ-04,remit,RMT-0023640,"Remittance posted against claim CLM-2026-800051, absent from the claims feed"
+INJ-0357,DQ-04,remit,RMT-0023641,"Remittance posted against claim CLM-2026-800052, absent from the claims feed"
+INJ-0358,DQ-04,remit,RMT-0023642,"Remittance posted against claim CLM-2026-800053, absent from the claims feed"
+INJ-0359,DQ-04,remit,RMT-0023643,"Remittance posted against claim CLM-2026-800054, absent from the claims feed"
+INJ-0360,DQ-04,remit,RMT-0023644,"Remittance posted against claim CLM-2026-800055, absent from the claims feed"
+INJ-0361,DQ-04,remit,RMT-0023645,"Remittance posted against claim CLM-2026-800056, absent from the claims feed"
+INJ-0362,DQ-04,remit,RMT-0023646,"Remittance posted against claim CLM-2026-800057, absent from the claims feed"
+INJ-0363,DQ-04,remit,RMT-0023647,"Remittance posted against claim CLM-2026-800058, absent from the claims feed"
+INJ-0364,DQ-04,remit,RMT-0023648,"Remittance posted against claim CLM-2026-800059, absent from the claims feed"
+INJ-0365,DQ-04,remit,RMT-0023649,"Remittance posted against claim CLM-2026-800060, absent from the claims feed"
+INJ-0366,DQ-04,remit,RMT-0023650,"Remittance posted against claim CLM-2026-800061, absent from the claims feed"
+INJ-0367,DQ-04,remit,RMT-0023651,"Remittance posted against claim CLM-2026-800062, absent from the claims feed"
+INJ-0368,DQ-04,remit,RMT-0023652,"Remittance posted against claim CLM-2026-800063, absent from the claims feed"
+INJ-0369,DQ-04,remit,RMT-0023653,"Remittance posted against claim CLM-2026-800064, absent from the claims feed"
+INJ-0370,DQ-04,remit,RMT-0023654,"Remittance posted against claim CLM-2026-800065, absent from the claims feed"
+INJ-0371,DQ-04,remit,RMT-0023655,"Remittance posted against claim CLM-2026-800066, absent from the claims feed"
+INJ-0372,DQ-04,remit,RMT-0023656,"Remittance posted against claim CLM-2026-800067, absent from the claims feed"
+INJ-0373,DQ-04,remit,RMT-0023657,"Remittance posted against claim CLM-2026-800068, absent from the claims feed"
+INJ-0374,DQ-04,remit,RMT-0023658,"Remittance posted against claim CLM-2026-800069, absent from the claims feed"
+INJ-0375,DQ-04,remit,RMT-0023659,"Remittance posted against claim CLM-2026-800070, absent from the claims feed"
+INJ-0376,DQ-04,remit,RMT-0023660,"Remittance posted against claim CLM-2026-800071, absent from the claims feed"
+INJ-0377,DQ-04,remit,RMT-0023661,"Remittance posted against claim CLM-2026-800072, absent from the claims feed"
+INJ-0378,DQ-04,remit,RMT-0023662,"Remittance posted against claim CLM-2026-800073, absent from the claims feed"
+INJ-0379,DQ-04,remit,RMT-0023663,"Remittance posted against claim CLM-2026-800074, absent from the claims feed"
+INJ-0380,DQ-04,remit,RMT-0023664,"Remittance posted against claim CLM-2026-800075, absent from the claims feed"
+INJ-0381,DQ-04,remit,RMT-0023665,"Remittance posted against claim CLM-2026-800076, absent from the claims feed"
+INJ-0382,DQ-04,remit,RMT-0023666,"Remittance posted against claim CLM-2026-800077, absent from the claims feed"
+INJ-0383,DQ-04,remit,RMT-0023667,"Remittance posted against claim CLM-2026-800078, absent from the claims feed"
+INJ-0384,DQ-04,remit,RMT-0023668,"Remittance posted against claim CLM-2026-800079, absent from the claims feed"
+INJ-0385,DQ-04,remit,RMT-0023669,"Remittance posted against claim CLM-2026-800080, absent from the claims feed"
+INJ-0386,DQ-04,remit,RMT-0023670,"Remittance posted against claim CLM-2026-800081, absent from the claims feed"
+INJ-0387,DQ-04,remit,RMT-0023671,"Remittance posted against claim CLM-2026-800082, absent from the claims feed"
+INJ-0388,DQ-04,remit,RMT-0023672,"Remittance posted against claim CLM-2026-800083, absent from the claims feed"
+INJ-0389,DQ-04,remit,RMT-0023673,"Remittance posted against claim CLM-2026-800084, absent from the claims feed"
+INJ-0390,DQ-04,remit,RMT-0023674,"Remittance posted against claim CLM-2026-800085, absent from the claims feed"
+INJ-0391,DQ-04,remit,RMT-0023675,"Remittance posted against claim CLM-2026-800086, absent from the claims feed"
+INJ-0392,DQ-04,remit,RMT-0023676,"Remittance posted against claim CLM-2026-800087, absent from the claims feed"
+INJ-0393,DQ-04,remit,RMT-0023677,"Remittance posted against claim CLM-2026-800088, absent from the claims feed"
+INJ-0394,DQ-04,remit,RMT-0023678,"Remittance posted against claim CLM-2026-800089, absent from the claims feed"
+INJ-0395,DQ-04,remit,RMT-0023679,"Remittance posted against claim CLM-2026-800090, absent from the claims feed"
+INJ-0396,DQ-04,remit,RMT-0023680,"Remittance posted against claim CLM-2026-800091, absent from the claims feed"
+INJ-0397,DQ-04,remit,RMT-0023681,"Remittance posted against claim CLM-2026-800092, absent from the claims feed"
+INJ-0398,DQ-04,remit,RMT-0023682,"Remittance posted against claim CLM-2026-800093, absent from the claims feed"
+INJ-0399,DQ-04,remit,RMT-0023683,"Remittance posted against claim CLM-2026-800094, absent from the claims feed"
+INJ-0400,DQ-04,remit,RMT-0023684,"Remittance posted against claim CLM-2026-800095, absent from the claims feed"
+INJ-0401,DQ-04,remit,RMT-0023685,"Remittance posted against claim CLM-2026-800096, absent from the claims feed"
+INJ-0402,DQ-04,remit,RMT-0023686,"Remittance posted against claim CLM-2026-800097, absent from the claims feed"
+INJ-0403,DQ-04,remit,RMT-0023687,"Remittance posted against claim CLM-2026-800098, absent from the claims feed"
+INJ-0404,DQ-04,remit,RMT-0023688,"Remittance posted against claim CLM-2026-800099, absent from the claims feed"
+INJ-0405,DQ-04,remit,RMT-0023689,"Remittance posted against claim CLM-2026-800100, absent from the claims feed"
+INJ-0406,DQ-04,remit,RMT-0023690,"Remittance posted against claim CLM-2026-800101, absent from the claims feed"
+INJ-0407,DQ-04,remit,RMT-0023691,"Remittance posted against claim CLM-2026-800102, absent from the claims feed"
+INJ-0408,DQ-04,remit,RMT-0023692,"Remittance posted against claim CLM-2026-800103, absent from the claims feed"
+INJ-0409,DQ-04,remit,RMT-0023693,"Remittance posted against claim CLM-2026-800104, absent from the claims feed"
+INJ-0410,DQ-04,remit,RMT-0023694,"Remittance posted against claim CLM-2026-800105, absent from the claims feed"
+INJ-0411,DQ-04,remit,RMT-0023695,"Remittance posted against claim CLM-2026-800106, absent from the claims feed"
+INJ-0412,DQ-04,remit,RMT-0023696,"Remittance posted against claim CLM-2026-800107, absent from the claims feed"
+INJ-0413,DQ-04,remit,RMT-0023697,"Remittance posted against claim CLM-2026-800108, absent from the claims feed"
+INJ-0414,DQ-04,remit,RMT-0023698,"Remittance posted against claim CLM-2026-800109, absent from the claims feed"
+INJ-0415,DQ-04,remit,RMT-0023699,"Remittance posted against claim CLM-2026-800110, absent from the claims feed"
+INJ-0416,DQ-04,remit,RMT-0023700,"Remittance posted against claim CLM-2026-800111, absent from the claims feed"
+INJ-0417,DQ-04,remit,RMT-0023701,"Remittance posted against claim CLM-2026-800112, absent from the claims feed"
+INJ-0418,DQ-04,remit,RMT-0023702,"Remittance posted against claim CLM-2026-800113, absent from the claims feed"
+INJ-0419,DQ-04,remit,RMT-0023703,"Remittance posted against claim CLM-2026-800114, absent from the claims feed"
+INJ-0420,DQ-04,remit,RMT-0023704,"Remittance posted against claim CLM-2026-800115, absent from the claims feed"
+INJ-0421,DQ-04,remit,RMT-0023705,"Remittance posted against claim CLM-2026-800116, absent from the claims feed"
+INJ-0422,DQ-04,remit,RMT-0023706,"Remittance posted against claim CLM-2026-800117, absent from the claims feed"
+INJ-0423,DQ-04,remit,RMT-0023707,"Remittance posted against claim CLM-2026-800118, absent from the claims feed"
+INJ-0424,DQ-04,remit,RMT-0023708,"Remittance posted against claim CLM-2026-800119, absent from the claims feed"
+INJ-0425,DQ-04,remit,RMT-0023709,"Remittance posted against claim CLM-2026-800120, absent from the claims feed"
+INJ-0426,DQ-05,claim,CLM-2026-002828,Claim carries PAID status but no remittance line was received
+INJ-0427,DQ-05,claim,CLM-2026-010210,Claim carries PAID status but no remittance line was received
+INJ-0428,DQ-05,claim,CLM-2026-010735,Claim carries PAID status but no remittance line was received
+INJ-0429,DQ-05,claim,CLM-2026-010524,Claim carries PAID status but no remittance line was received
+INJ-0430,DQ-05,claim,CLM-2026-017587,Claim carries PAID status but no remittance line was received
+INJ-0431,DQ-05,claim,CLM-2026-020583,Claim carries PAID status but no remittance line was received
+INJ-0432,DQ-05,claim,CLM-2026-012613,Claim carries PAID status but no remittance line was received
+INJ-0433,DQ-05,claim,CLM-2026-013316,Claim carries PAID status but no remittance line was received
+INJ-0434,DQ-05,claim,CLM-2026-017342,Claim carries PAID status but no remittance line was received
+INJ-0435,DQ-05,claim,CLM-2026-011415,Claim carries PAID status but no remittance line was received
+INJ-0436,DQ-05,claim,CLM-2026-018725,Claim carries PAID status but no remittance line was received
+INJ-0437,DQ-05,claim,CLM-2026-019824,Claim carries PAID status but no remittance line was received
+INJ-0438,DQ-05,claim,CLM-2026-024438,Claim carries PAID status but no remittance line was received
+INJ-0439,DQ-05,claim,CLM-2026-008643,Claim carries PAID status but no remittance line was received
+INJ-0440,DQ-05,claim,CLM-2026-009985,Claim carries PAID status but no remittance line was received
+INJ-0441,DQ-05,claim,CLM-2026-012848,Claim carries PAID status but no remittance line was received
+INJ-0442,DQ-05,claim,CLM-2026-017137,Claim carries PAID status but no remittance line was received
+INJ-0443,DQ-05,claim,CLM-2026-009322,Claim carries PAID status but no remittance line was received
+INJ-0444,DQ-05,claim,CLM-2026-004125,Claim carries PAID status but no remittance line was received
+INJ-0445,DQ-05,claim,CLM-2026-015823,Claim carries PAID status but no remittance line was received
+INJ-0446,DQ-05,claim,CLM-2026-010812,Claim carries PAID status but no remittance line was received
+INJ-0447,DQ-05,claim,CLM-2026-008254,Claim carries PAID status but no remittance line was received
+INJ-0448,DQ-05,claim,CLM-2026-016684,Claim carries PAID status but no remittance line was received
+INJ-0449,DQ-05,claim,CLM-2026-017010,Claim carries PAID status but no remittance line was received
+INJ-0450,DQ-05,claim,CLM-2026-017617,Claim carries PAID status but no remittance line was received
+INJ-0451,DQ-05,claim,CLM-2026-009729,Claim carries PAID status but no remittance line was received
+INJ-0452,DQ-05,claim,CLM-2026-001248,Claim carries PAID status but no remittance line was received
+INJ-0453,DQ-05,claim,CLM-2026-021960,Claim carries PAID status but no remittance line was received
+INJ-0454,DQ-05,claim,CLM-2026-018176,Claim carries PAID status but no remittance line was received
+INJ-0455,DQ-05,claim,CLM-2026-015727,Claim carries PAID status but no remittance line was received
+INJ-0456,DQ-05,claim,CLM-2026-001135,Claim carries PAID status but no remittance line was received
+INJ-0457,DQ-05,claim,CLM-2026-011506,Claim carries PAID status but no remittance line was received
+INJ-0458,DQ-05,claim,CLM-2026-022457,Claim carries PAID status but no remittance line was received
+INJ-0459,DQ-05,claim,CLM-2026-014956,Claim carries PAID status but no remittance line was received
+INJ-0460,DQ-05,claim,CLM-2026-008317,Claim carries PAID status but no remittance line was received
+INJ-0461,DQ-05,claim,CLM-2026-006218,Claim carries PAID status but no remittance line was received
+INJ-0462,DQ-05,claim,CLM-2026-020512,Claim carries PAID status but no remittance line was received
+INJ-0463,DQ-05,claim,CLM-2026-002777,Claim carries PAID status but no remittance line was received
+INJ-0464,DQ-05,claim,CLM-2026-009924,Claim carries PAID status but no remittance line was received
+INJ-0465,DQ-05,claim,CLM-2026-024768,Claim carries PAID status but no remittance line was received
+INJ-0466,DQ-05,claim,CLM-2026-000103,Claim carries PAID status but no remittance line was received
+INJ-0467,DQ-05,claim,CLM-2026-002597,Claim carries PAID status but no remittance line was received
+INJ-0468,DQ-05,claim,CLM-2026-009612,Claim carries PAID status but no remittance line was received
+INJ-0469,DQ-05,claim,CLM-2026-020486,Claim carries PAID status but no remittance line was received
+INJ-0470,DQ-05,claim,CLM-2026-010291,Claim carries PAID status but no remittance line was received
+INJ-0471,DQ-05,claim,CLM-2026-014533,Claim carries PAID status but no remittance line was received
+INJ-0472,DQ-05,claim,CLM-2026-021438,Claim carries PAID status but no remittance line was received
+INJ-0473,DQ-05,claim,CLM-2026-013964,Claim carries PAID status but no remittance line was received
+INJ-0474,DQ-05,claim,CLM-2026-022305,Claim carries PAID status but no remittance line was received
+INJ-0475,DQ-05,claim,CLM-2026-011322,Claim carries PAID status but no remittance line was received
+INJ-0476,DQ-05,claim,CLM-2026-015753,Claim carries PAID status but no remittance line was received
+INJ-0477,DQ-05,claim,CLM-2026-010866,Claim carries PAID status but no remittance line was received
+INJ-0478,DQ-05,claim,CLM-2026-002592,Claim carries PAID status but no remittance line was received
+INJ-0479,DQ-05,claim,CLM-2026-006725,Claim carries PAID status but no remittance line was received
+INJ-0480,DQ-05,claim,CLM-2026-001202,Claim carries PAID status but no remittance line was received
+INJ-0481,DQ-05,claim,CLM-2026-008191,Claim carries PAID status but no remittance line was received
+INJ-0482,DQ-05,claim,CLM-2026-009324,Claim carries PAID status but no remittance line was received
+INJ-0483,DQ-05,claim,CLM-2026-015898,Claim carries PAID status but no remittance line was received
+INJ-0484,DQ-05,claim,CLM-2026-024071,Claim carries PAID status but no remittance line was received
+INJ-0485,DQ-05,claim,CLM-2026-018133,Claim carries PAID status but no remittance line was received
+INJ-0486,DQ-06,claim,CLM-2026-003131,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003131
+INJ-0487,DQ-06,claim,CLM-2026-023760,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023760
+INJ-0488,DQ-06,claim,CLM-2026-010995,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010995
+INJ-0489,DQ-06,claim,CLM-2026-014620,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014620
+INJ-0490,DQ-06,claim,CLM-2026-014350,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014350
+INJ-0491,DQ-06,claim,CLM-2026-009372,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009372
+INJ-0492,DQ-06,claim,CLM-2026-004103,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004103
+INJ-0493,DQ-06,claim,CLM-2026-016833,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016833
+INJ-0494,DQ-06,claim,CLM-2026-006724,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006724
+INJ-0495,DQ-06,claim,CLM-2026-001507,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001507
+INJ-0496,DQ-06,claim,CLM-2026-000538,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000538
+INJ-0497,DQ-06,claim,CLM-2026-012238,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012238
+INJ-0498,DQ-06,claim,CLM-2026-009082,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009082
+INJ-0499,DQ-06,claim,CLM-2026-006871,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006871
+INJ-0500,DQ-06,claim,CLM-2026-002272,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002272
+INJ-0501,DQ-06,claim,CLM-2026-024955,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024955
+INJ-0502,DQ-06,claim,CLM-2026-011284,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011284
+INJ-0503,DQ-06,claim,CLM-2026-004748,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004748
+INJ-0504,DQ-06,claim,CLM-2026-016410,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016410
+INJ-0505,DQ-06,claim,CLM-2026-006170,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006170
+INJ-0506,DQ-06,claim,CLM-2026-015274,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015274
+INJ-0507,DQ-06,claim,CLM-2026-008738,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008738
+INJ-0508,DQ-06,claim,CLM-2026-022684,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022684
+INJ-0509,DQ-06,claim,CLM-2026-000387,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000387
+INJ-0510,DQ-06,claim,CLM-2026-011899,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011899
+INJ-0511,DQ-06,claim,CLM-2026-000072,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000072
+INJ-0512,DQ-06,claim,CLM-2026-001357,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001357
+INJ-0513,DQ-06,claim,CLM-2026-014215,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014215
+INJ-0514,DQ-06,claim,CLM-2026-021179,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021179
+INJ-0515,DQ-06,claim,CLM-2026-000112,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000112
+INJ-0516,DQ-06,claim,CLM-2026-015890,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015890
+INJ-0517,DQ-06,claim,CLM-2026-000595,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000595
+INJ-0518,DQ-06,claim,CLM-2026-019835,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019835
+INJ-0519,DQ-06,claim,CLM-2026-014242,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014242
+INJ-0520,DQ-06,claim,CLM-2026-008613,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008613
+INJ-0521,DQ-06,claim,CLM-2026-018982,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018982
+INJ-0522,DQ-06,claim,CLM-2026-004106,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004106
+INJ-0523,DQ-06,claim,CLM-2026-012868,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012868
+INJ-0524,DQ-06,claim,CLM-2026-011609,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011609
+INJ-0525,DQ-06,claim,CLM-2026-004499,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004499
+INJ-0526,DQ-06,claim,CLM-2026-014860,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014860
+INJ-0527,DQ-06,claim,CLM-2026-005282,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005282
+INJ-0528,DQ-06,claim,CLM-2026-012269,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012269
+INJ-0529,DQ-06,claim,CLM-2026-001492,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001492
+INJ-0530,DQ-06,claim,CLM-2026-019219,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019219
+INJ-0531,DQ-06,claim,CLM-2026-001258,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001258
+INJ-0532,DQ-06,claim,CLM-2026-004578,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004578
+INJ-0533,DQ-06,claim,CLM-2026-002803,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002803
+INJ-0534,DQ-06,claim,CLM-2026-002734,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002734
+INJ-0535,DQ-06,claim,CLM-2026-001952,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001952
+INJ-0536,DQ-06,claim,CLM-2026-024495,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024495
+INJ-0537,DQ-06,claim,CLM-2026-022141,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022141
+INJ-0538,DQ-06,claim,CLM-2026-014870,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014870
+INJ-0539,DQ-06,claim,CLM-2026-024719,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024719
+INJ-0540,DQ-06,claim,CLM-2026-024046,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024046
+INJ-0541,DQ-06,claim,CLM-2026-005735,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005735
+INJ-0542,DQ-06,claim,CLM-2026-021368,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021368
+INJ-0543,DQ-06,claim,CLM-2026-012535,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012535
+INJ-0544,DQ-06,claim,CLM-2026-021619,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021619
+INJ-0545,DQ-06,claim,CLM-2026-010554,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010554
+INJ-0546,DQ-06,claim,CLM-2026-015173,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015173
+INJ-0547,DQ-06,claim,CLM-2026-024921,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024921
+INJ-0548,DQ-06,claim,CLM-2026-007999,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007999
+INJ-0549,DQ-06,claim,CLM-2026-006486,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006486
+INJ-0550,DQ-06,claim,CLM-2026-010114,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010114
+INJ-0551,DQ-06,claim,CLM-2026-001399,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001399
+INJ-0552,DQ-06,claim,CLM-2026-003775,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003775
+INJ-0553,DQ-06,claim,CLM-2026-024710,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024710
+INJ-0554,DQ-06,claim,CLM-2026-014490,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014490
+INJ-0555,DQ-06,claim,CLM-2026-008366,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008366
+INJ-0556,DQ-06,claim,CLM-2026-015150,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015150
+INJ-0557,DQ-06,claim,CLM-2026-009845,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009845
+INJ-0558,DQ-06,claim,CLM-2026-016853,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016853
+INJ-0559,DQ-06,claim,CLM-2026-024971,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024971
+INJ-0560,DQ-06,claim,CLM-2026-014835,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014835
+INJ-0561,DQ-06,claim,CLM-2026-001385,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001385
+INJ-0562,DQ-06,claim,CLM-2026-013141,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013141
+INJ-0563,DQ-06,claim,CLM-2026-010863,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010863
+INJ-0564,DQ-06,claim,CLM-2026-005697,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005697
+INJ-0565,DQ-06,claim,CLM-2026-003848,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003848
+INJ-0566,DQ-06,claim,CLM-2026-018841,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018841
+INJ-0567,DQ-06,claim,CLM-2026-019299,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019299
+INJ-0568,DQ-06,claim,CLM-2026-019314,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019314
+INJ-0569,DQ-06,claim,CLM-2026-015268,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015268
+INJ-0570,DQ-06,claim,CLM-2026-020792,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020792
+INJ-0571,DQ-06,claim,CLM-2026-007692,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007692
+INJ-0572,DQ-06,claim,CLM-2026-003590,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003590
+INJ-0573,DQ-06,claim,CLM-2026-020411,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020411
+INJ-0574,DQ-06,claim,CLM-2026-006191,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006191
+INJ-0575,DQ-06,claim,CLM-2026-000200,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000200
+INJ-0576,DQ-06,claim,CLM-2026-015912,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015912
+INJ-0577,DQ-06,claim,CLM-2026-005488,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005488
+INJ-0578,DQ-06,claim,CLM-2026-001128,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001128
+INJ-0579,DQ-06,claim,CLM-2026-018842,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018842
+INJ-0580,DQ-06,claim,CLM-2026-009459,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009459
+INJ-0581,DQ-06,claim,CLM-2026-013673,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013673
+INJ-0582,DQ-06,claim,CLM-2026-008618,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008618
+INJ-0583,DQ-06,claim,CLM-2026-018494,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018494
+INJ-0584,DQ-06,claim,CLM-2026-003577,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003577
+INJ-0585,DQ-06,claim,CLM-2026-022524,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022524
+INJ-0586,DQ-06,claim,CLM-2026-024995,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024995
+INJ-0587,DQ-06,claim,CLM-2026-019350,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019350
+INJ-0588,DQ-06,claim,CLM-2026-004691,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004691
+INJ-0589,DQ-06,claim,CLM-2026-022416,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022416
+INJ-0590,DQ-06,claim,CLM-2026-020861,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020861
+INJ-0591,DQ-06,claim,CLM-2026-023918,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023918
+INJ-0592,DQ-06,claim,CLM-2026-001458,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001458
+INJ-0593,DQ-06,claim,CLM-2026-013471,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013471
+INJ-0594,DQ-06,claim,CLM-2026-001932,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001932
+INJ-0595,DQ-06,claim,CLM-2026-014933,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014933
+INJ-0596,DQ-06,claim,CLM-2026-005308,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005308
+INJ-0597,DQ-06,claim,CLM-2026-012296,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012296
+INJ-0598,DQ-06,claim,CLM-2026-000517,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000517
+INJ-0599,DQ-06,claim,CLM-2026-010839,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010839
+INJ-0600,DQ-06,claim,CLM-2026-020628,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020628
+INJ-0601,DQ-06,claim,CLM-2026-008786,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008786
+INJ-0602,DQ-06,claim,CLM-2026-017569,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017569
+INJ-0603,DQ-06,claim,CLM-2026-006738,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006738
+INJ-0604,DQ-06,claim,CLM-2026-008761,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008761
+INJ-0605,DQ-06,claim,CLM-2026-020909,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020909
+INJ-0606,DQ-06,claim,CLM-2026-020191,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020191
+INJ-0607,DQ-06,claim,CLM-2026-003919,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003919
+INJ-0608,DQ-06,claim,CLM-2026-001167,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001167
+INJ-0609,DQ-06,claim,CLM-2026-024498,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024498
+INJ-0610,DQ-06,claim,CLM-2026-012100,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012100
+INJ-0611,DQ-06,claim,CLM-2026-012525,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012525
+INJ-0612,DQ-06,claim,CLM-2026-020147,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020147
+INJ-0613,DQ-06,claim,CLM-2026-016708,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016708
+INJ-0614,DQ-06,claim,CLM-2026-002038,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002038
+INJ-0615,DQ-06,claim,CLM-2026-014181,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014181
+INJ-0616,DQ-06,claim,CLM-2026-007555,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007555
+INJ-0617,DQ-06,claim,CLM-2026-018357,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018357
+INJ-0618,DQ-06,claim,CLM-2026-020498,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020498
+INJ-0619,DQ-06,claim,CLM-2026-023829,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023829
+INJ-0620,DQ-06,claim,CLM-2026-002490,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002490
+INJ-0621,DQ-06,claim,CLM-2026-016497,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016497
+INJ-0622,DQ-06,claim,CLM-2026-017672,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017672
+INJ-0623,DQ-06,claim,CLM-2026-007554,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007554
+INJ-0624,DQ-06,claim,CLM-2026-017094,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017094
+INJ-0625,DQ-06,claim,CLM-2026-014725,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014725
+INJ-0626,DQ-06,claim,CLM-2026-001327,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001327
+INJ-0627,DQ-06,claim,CLM-2026-001319,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001319
+INJ-0628,DQ-06,claim,CLM-2026-009539,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009539
+INJ-0629,DQ-06,claim,CLM-2026-006116,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006116
+INJ-0630,DQ-06,claim,CLM-2026-000975,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000975
+INJ-0631,DQ-06,claim,CLM-2026-002477,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002477
+INJ-0632,DQ-06,claim,CLM-2026-022540,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022540
+INJ-0633,DQ-06,claim,CLM-2026-006517,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006517
+INJ-0634,DQ-06,claim,CLM-2026-008751,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008751
+INJ-0635,DQ-06,claim,CLM-2026-020684,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020684
+INJ-0636,DQ-06,claim,CLM-2026-003917,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003917
+INJ-0637,DQ-06,claim,CLM-2026-004861,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004861
+INJ-0638,DQ-06,claim,CLM-2026-012704,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012704
+INJ-0639,DQ-06,claim,CLM-2026-017981,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017981
+INJ-0640,DQ-06,claim,CLM-2026-019180,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019180
+INJ-0641,DQ-06,claim,CLM-2026-017827,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017827
+INJ-0642,DQ-06,claim,CLM-2026-022605,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022605
+INJ-0643,DQ-06,claim,CLM-2026-014379,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014379
+INJ-0644,DQ-06,claim,CLM-2026-023377,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023377
+INJ-0645,DQ-06,claim,CLM-2026-013933,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013933
+INJ-0646,DQ-06,claim,CLM-2026-001670,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001670
+INJ-0647,DQ-06,claim,CLM-2026-015015,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015015
+INJ-0648,DQ-06,claim,CLM-2026-003083,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003083
+INJ-0649,DQ-06,claim,CLM-2026-024826,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024826
+INJ-0650,DQ-06,claim,CLM-2026-011652,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011652
+INJ-0651,DQ-06,claim,CLM-2026-015581,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015581
+INJ-0652,DQ-06,claim,CLM-2026-005775,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005775
+INJ-0653,DQ-06,claim,CLM-2026-008855,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008855
+INJ-0654,DQ-06,claim,CLM-2026-024587,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024587
+INJ-0655,DQ-06,claim,CLM-2026-021574,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021574
+INJ-0656,DQ-06,claim,CLM-2026-003999,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003999
+INJ-0657,DQ-06,claim,CLM-2026-022607,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022607
+INJ-0658,DQ-06,claim,CLM-2026-022059,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022059
+INJ-0659,DQ-06,claim,CLM-2026-023724,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023724
+INJ-0660,DQ-06,claim,CLM-2026-018050,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018050
+INJ-0661,DQ-06,claim,CLM-2026-024568,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024568
+INJ-0662,DQ-06,claim,CLM-2026-015309,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015309
+INJ-0663,DQ-06,claim,CLM-2026-014804,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014804
+INJ-0664,DQ-06,claim,CLM-2026-004892,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004892
+INJ-0665,DQ-06,claim,CLM-2026-012811,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012811
+INJ-0666,DQ-06,claim,CLM-2026-002065,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002065
+INJ-0667,DQ-06,claim,CLM-2026-000133,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000133
+INJ-0668,DQ-06,claim,CLM-2026-006502,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006502
+INJ-0669,DQ-06,claim,CLM-2026-022790,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022790
+INJ-0670,DQ-06,claim,CLM-2026-019304,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019304
+INJ-0671,DQ-06,claim,CLM-2026-004124,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004124
+INJ-0672,DQ-06,claim,CLM-2026-018321,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018321
+INJ-0673,DQ-06,claim,CLM-2026-013873,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013873
+INJ-0674,DQ-06,claim,CLM-2026-018555,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018555
+INJ-0675,DQ-06,claim,CLM-2026-005596,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005596
+INJ-0676,DQ-06,claim,CLM-2026-010010,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010010
+INJ-0677,DQ-06,claim,CLM-2026-004189,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004189
+INJ-0678,DQ-06,claim,CLM-2026-016391,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016391
+INJ-0679,DQ-06,claim,CLM-2026-019917,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019917
+INJ-0680,DQ-06,claim,CLM-2026-008275,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008275
+INJ-0681,DQ-06,claim,CLM-2026-022037,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022037
+INJ-0682,DQ-06,claim,CLM-2026-011554,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011554
+INJ-0683,DQ-06,claim,CLM-2026-018589,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018589
+INJ-0684,DQ-06,claim,CLM-2026-002914,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002914
+INJ-0685,DQ-06,claim,CLM-2026-010716,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010716
+INJ-0686,DQ-06,claim,CLM-2026-015375,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015375
+INJ-0687,DQ-06,claim,CLM-2026-021110,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021110
+INJ-0688,DQ-06,claim,CLM-2026-021867,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021867
+INJ-0689,DQ-06,claim,CLM-2026-016353,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016353
+INJ-0690,DQ-06,claim,CLM-2026-000181,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000181
+INJ-0691,DQ-06,claim,CLM-2026-012224,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012224
+INJ-0692,DQ-06,claim,CLM-2026-015108,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015108
+INJ-0693,DQ-06,claim,CLM-2026-010002,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010002
+INJ-0694,DQ-06,claim,CLM-2026-014723,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014723
+INJ-0695,DQ-06,claim,CLM-2026-008095,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008095
+INJ-0696,DQ-06,claim,CLM-2026-015621,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015621
+INJ-0697,DQ-06,claim,CLM-2026-015430,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015430
+INJ-0698,DQ-06,claim,CLM-2026-022741,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022741
+INJ-0699,DQ-06,claim,CLM-2026-008133,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008133
+INJ-0700,DQ-06,claim,CLM-2026-005955,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005955
+INJ-0701,DQ-06,claim,CLM-2026-011468,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011468
+INJ-0702,DQ-06,claim,CLM-2026-011407,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-011407
+INJ-0703,DQ-06,claim,CLM-2026-003282,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003282
+INJ-0704,DQ-06,claim,CLM-2026-015008,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015008
+INJ-0705,DQ-06,claim,CLM-2026-014564,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014564
+INJ-0706,DQ-06,claim,CLM-2026-021176,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021176
+INJ-0707,DQ-06,claim,CLM-2026-018181,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018181
+INJ-0708,DQ-06,claim,CLM-2026-021558,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021558
+INJ-0709,DQ-06,claim,CLM-2026-001152,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001152
+INJ-0710,DQ-06,claim,CLM-2026-017565,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017565
+INJ-0711,DQ-06,claim,CLM-2026-010987,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010987
+INJ-0712,DQ-06,claim,CLM-2026-003871,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003871
+INJ-0713,DQ-06,claim,CLM-2026-020925,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020925
+INJ-0714,DQ-06,claim,CLM-2026-014507,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014507
+INJ-0715,DQ-06,claim,CLM-2026-015950,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015950
+INJ-0716,DQ-06,claim,CLM-2026-013756,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013756
+INJ-0717,DQ-06,claim,CLM-2026-006125,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006125
+INJ-0718,DQ-06,claim,CLM-2026-021259,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021259
+INJ-0719,DQ-06,claim,CLM-2026-019801,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019801
+INJ-0720,DQ-06,claim,CLM-2026-018596,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018596
+INJ-0721,DQ-06,claim,CLM-2026-001012,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001012
+INJ-0722,DQ-06,claim,CLM-2026-010214,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010214
+INJ-0723,DQ-06,claim,CLM-2026-010740,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010740
+INJ-0724,DQ-06,claim,CLM-2026-008362,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008362
+INJ-0725,DQ-06,claim,CLM-2026-004602,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004602
+INJ-0726,DQ-06,claim,CLM-2026-005254,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005254
+INJ-0727,DQ-06,claim,CLM-2026-007829,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007829
+INJ-0728,DQ-06,claim,CLM-2026-005865,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005865
+INJ-0729,DQ-06,claim,CLM-2026-020293,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020293
+INJ-0730,DQ-06,claim,CLM-2026-021363,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021363
+INJ-0731,DQ-06,claim,CLM-2026-023620,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023620
+INJ-0732,DQ-06,claim,CLM-2026-014713,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014713
+INJ-0733,DQ-06,claim,CLM-2026-021122,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021122
+INJ-0734,DQ-06,claim,CLM-2026-013353,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013353
+INJ-0735,DQ-06,claim,CLM-2026-016785,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016785
+INJ-0736,DQ-06,claim,CLM-2026-005741,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005741
+INJ-0737,DQ-06,claim,CLM-2026-003139,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003139
+INJ-0738,DQ-06,claim,CLM-2026-001958,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-001958
+INJ-0739,DQ-06,claim,CLM-2026-005475,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005475
+INJ-0740,DQ-06,claim,CLM-2026-008204,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008204
+INJ-0741,DQ-06,claim,CLM-2026-008335,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008335
+INJ-0742,DQ-06,claim,CLM-2026-004073,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004073
+INJ-0743,DQ-06,claim,CLM-2026-000146,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000146
+INJ-0744,DQ-06,claim,CLM-2026-022660,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022660
+INJ-0745,DQ-06,claim,CLM-2026-022438,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022438
+INJ-0746,DQ-06,claim,CLM-2026-016448,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016448
+INJ-0747,DQ-06,claim,CLM-2026-015559,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015559
+INJ-0748,DQ-06,claim,CLM-2026-008749,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008749
+INJ-0749,DQ-06,claim,CLM-2026-003328,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003328
+INJ-0750,DQ-06,claim,CLM-2026-016598,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-016598
+INJ-0751,DQ-06,claim,CLM-2026-009678,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009678
+INJ-0752,DQ-06,claim,CLM-2026-013502,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013502
+INJ-0753,DQ-06,claim,CLM-2026-017667,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-017667
+INJ-0754,DQ-06,claim,CLM-2026-009936,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009936
+INJ-0755,DQ-06,claim,CLM-2026-013291,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013291
+INJ-0756,DQ-06,claim,CLM-2026-008675,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008675
+INJ-0757,DQ-06,claim,CLM-2026-019457,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-019457
+INJ-0758,DQ-06,claim,CLM-2026-002305,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002305
+INJ-0759,DQ-06,claim,CLM-2026-023557,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023557
+INJ-0760,DQ-06,claim,CLM-2026-020541,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020541
+INJ-0761,DQ-06,claim,CLM-2026-010389,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010389
+INJ-0762,DQ-06,claim,CLM-2026-012596,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012596
+INJ-0763,DQ-06,claim,CLM-2026-024484,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024484
+INJ-0764,DQ-06,claim,CLM-2026-020037,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-020037
+INJ-0765,DQ-06,claim,CLM-2026-014527,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014527
+INJ-0766,DQ-06,claim,CLM-2026-008896,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-008896
+INJ-0767,DQ-06,claim,CLM-2026-024722,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-024722
+INJ-0768,DQ-06,claim,CLM-2026-007881,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007881
+INJ-0769,DQ-06,claim,CLM-2026-002266,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002266
+INJ-0770,DQ-06,claim,CLM-2026-014746,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014746
+INJ-0771,DQ-06,claim,CLM-2026-021435,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021435
+INJ-0772,DQ-06,claim,CLM-2026-023148,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-023148
+INJ-0773,DQ-06,claim,CLM-2026-007197,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-007197
+INJ-0774,DQ-06,claim,CLM-2026-005704,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005704
+INJ-0775,DQ-06,claim,CLM-2026-010018,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-010018
+INJ-0776,DQ-06,claim,CLM-2026-018090,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-018090
+INJ-0777,DQ-06,claim,CLM-2026-005046,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-005046
+INJ-0778,DQ-06,claim,CLM-2026-006917,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-006917
+INJ-0779,DQ-06,claim,CLM-2026-004870,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004870
+INJ-0780,DQ-06,claim,CLM-2026-000365,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-000365
+INJ-0781,DQ-06,claim,CLM-2026-015716,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-015716
+INJ-0782,DQ-06,claim,CLM-2026-021288,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021288
+INJ-0783,DQ-06,claim,CLM-2026-003086,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003086
+INJ-0784,DQ-06,claim,CLM-2026-022750,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-022750
+INJ-0785,DQ-06,claim,CLM-2026-002127,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-002127
+INJ-0786,DQ-06,claim,CLM-2026-013571,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013571
+INJ-0787,DQ-06,claim,CLM-2026-014589,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-014589
+INJ-0788,DQ-06,claim,CLM-2026-004468,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004468
+INJ-0789,DQ-06,claim,CLM-2026-021625,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-021625
+INJ-0790,DQ-06,claim,CLM-2026-003174,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-003174
+INJ-0791,DQ-06,claim,CLM-2026-012823,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-012823
+INJ-0792,DQ-06,claim,CLM-2026-009450,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009450
+INJ-0793,DQ-06,claim,CLM-2026-009605,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-009605
+INJ-0794,DQ-06,claim,CLM-2026-013041,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-013041
+INJ-0795,DQ-06,claim,CLM-2026-004025,Paid + patient responsibility + adjustment no longer balances to the billed amount on claim CLM-2026-004025
+INJ-0796,DQ-07,claim,CLM-2026-021696,Paid amount exceeds the billed charge on claim CLM-2026-021696
+INJ-0797,DQ-07,claim,CLM-2026-003706,Paid amount exceeds the billed charge on claim CLM-2026-003706
+INJ-0798,DQ-07,claim,CLM-2026-020764,Paid amount exceeds the billed charge on claim CLM-2026-020764
+INJ-0799,DQ-07,claim,CLM-2026-003746,Paid amount exceeds the billed charge on claim CLM-2026-003746
+INJ-0800,DQ-07,claim,CLM-2026-015619,Paid amount exceeds the billed charge on claim CLM-2026-015619
+INJ-0801,DQ-07,claim,CLM-2026-015171,Paid amount exceeds the billed charge on claim CLM-2026-015171
+INJ-0802,DQ-07,claim,CLM-2026-006289,Paid amount exceeds the billed charge on claim CLM-2026-006289
+INJ-0803,DQ-07,claim,CLM-2026-018685,Paid amount exceeds the billed charge on claim CLM-2026-018685
+INJ-0804,DQ-07,claim,CLM-2026-023298,Paid amount exceeds the billed charge on claim CLM-2026-023298
+INJ-0805,DQ-07,claim,CLM-2026-020479,Paid amount exceeds the billed charge on claim CLM-2026-020479
+INJ-0806,DQ-07,claim,CLM-2026-015970,Paid amount exceeds the billed charge on claim CLM-2026-015970
+INJ-0807,DQ-07,claim,CLM-2026-023837,Paid amount exceeds the billed charge on claim CLM-2026-023837
+INJ-0808,DQ-07,claim,CLM-2026-019033,Paid amount exceeds the billed charge on claim CLM-2026-019033
+INJ-0809,DQ-07,claim,CLM-2026-000676,Paid amount exceeds the billed charge on claim CLM-2026-000676
+INJ-0810,DQ-07,claim,CLM-2026-000535,Paid amount exceeds the billed charge on claim CLM-2026-000535
+INJ-0811,DQ-07,claim,CLM-2026-009083,Paid amount exceeds the billed charge on claim CLM-2026-009083
+INJ-0812,DQ-07,claim,CLM-2026-017518,Paid amount exceeds the billed charge on claim CLM-2026-017518
+INJ-0813,DQ-07,claim,CLM-2026-017103,Paid amount exceeds the billed charge on claim CLM-2026-017103
+INJ-0814,DQ-07,claim,CLM-2026-006168,Paid amount exceeds the billed charge on claim CLM-2026-006168
+INJ-0815,DQ-07,claim,CLM-2026-021041,Paid amount exceeds the billed charge on claim CLM-2026-021041
+INJ-0816,DQ-07,claim,CLM-2026-006648,Paid amount exceeds the billed charge on claim CLM-2026-006648
+INJ-0817,DQ-07,claim,CLM-2026-017521,Paid amount exceeds the billed charge on claim CLM-2026-017521
+INJ-0818,DQ-07,claim,CLM-2026-016687,Paid amount exceeds the billed charge on claim CLM-2026-016687
+INJ-0819,DQ-07,claim,CLM-2026-007453,Paid amount exceeds the billed charge on claim CLM-2026-007453
+INJ-0820,DQ-07,claim,CLM-2026-020300,Paid amount exceeds the billed charge on claim CLM-2026-020300
+INJ-0821,DQ-07,claim,CLM-2026-023872,Paid amount exceeds the billed charge on claim CLM-2026-023872
+INJ-0822,DQ-07,claim,CLM-2026-010567,Paid amount exceeds the billed charge on claim CLM-2026-010567
+INJ-0823,DQ-07,claim,CLM-2026-009158,Paid amount exceeds the billed charge on claim CLM-2026-009158
+INJ-0824,DQ-07,claim,CLM-2026-018175,Paid amount exceeds the billed charge on claim CLM-2026-018175
+INJ-0825,DQ-07,claim,CLM-2026-021795,Paid amount exceeds the billed charge on claim CLM-2026-021795
+INJ-0826,DQ-07,claim,CLM-2026-012291,Paid amount exceeds the billed charge on claim CLM-2026-012291
+INJ-0827,DQ-07,claim,CLM-2026-018753,Paid amount exceeds the billed charge on claim CLM-2026-018753
+INJ-0828,DQ-07,claim,CLM-2026-001641,Paid amount exceeds the billed charge on claim CLM-2026-001641
+INJ-0829,DQ-07,claim,CLM-2026-016231,Paid amount exceeds the billed charge on claim CLM-2026-016231
+INJ-0830,DQ-07,claim,CLM-2026-023141,Paid amount exceeds the billed charge on claim CLM-2026-023141
+INJ-0831,DQ-07,claim,CLM-2026-003029,Paid amount exceeds the billed charge on claim CLM-2026-003029
+INJ-0832,DQ-07,claim,CLM-2026-014084,Paid amount exceeds the billed charge on claim CLM-2026-014084
+INJ-0833,DQ-07,claim,CLM-2026-017153,Paid amount exceeds the billed charge on claim CLM-2026-017153
+INJ-0834,DQ-07,claim,CLM-2026-009464,Paid amount exceeds the billed charge on claim CLM-2026-009464
+INJ-0835,DQ-07,claim,CLM-2026-006315,Paid amount exceeds the billed charge on claim CLM-2026-006315
+INJ-0836,DQ-07,claim,CLM-2026-003866,Paid amount exceeds the billed charge on claim CLM-2026-003866
+INJ-0837,DQ-07,claim,CLM-2026-015183,Paid amount exceeds the billed charge on claim CLM-2026-015183
+INJ-0838,DQ-07,claim,CLM-2026-007353,Paid amount exceeds the billed charge on claim CLM-2026-007353
+INJ-0839,DQ-07,claim,CLM-2026-013501,Paid amount exceeds the billed charge on claim CLM-2026-013501
+INJ-0840,DQ-07,claim,CLM-2026-013273,Paid amount exceeds the billed charge on claim CLM-2026-013273
+INJ-0841,DQ-08,claim,CLM-2026-022099,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022099
+INJ-0842,DQ-08,claim,CLM-2026-003697,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-003697
+INJ-0843,DQ-08,claim,CLM-2026-014206,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014206
+INJ-0844,DQ-08,claim,CLM-2026-011507,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011507
+INJ-0845,DQ-08,claim,CLM-2026-004794,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-004794
+INJ-0846,DQ-08,claim,CLM-2026-001305,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001305
+INJ-0847,DQ-08,claim,CLM-2026-009578,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009578
+INJ-0848,DQ-08,claim,CLM-2026-009113,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009113
+INJ-0849,DQ-08,claim,CLM-2026-001812,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001812
+INJ-0850,DQ-08,claim,CLM-2026-023692,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023692
+INJ-0851,DQ-08,claim,CLM-2026-005136,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005136
+INJ-0852,DQ-08,claim,CLM-2026-014768,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014768
+INJ-0853,DQ-08,claim,CLM-2026-020219,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020219
+INJ-0854,DQ-08,claim,CLM-2026-002533,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002533
+INJ-0855,DQ-08,claim,CLM-2026-010013,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010013
+INJ-0856,DQ-08,claim,CLM-2026-023556,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023556
+INJ-0857,DQ-08,claim,CLM-2026-016664,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016664
+INJ-0858,DQ-08,claim,CLM-2026-005274,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005274
+INJ-0859,DQ-08,claim,CLM-2026-023604,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023604
+INJ-0860,DQ-08,claim,CLM-2026-003104,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-003104
+INJ-0861,DQ-08,claim,CLM-2026-024110,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-024110
+INJ-0862,DQ-08,claim,CLM-2026-015308,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-015308
+INJ-0863,DQ-08,claim,CLM-2026-018795,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018795
+INJ-0864,DQ-08,claim,CLM-2026-001553,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001553
+INJ-0865,DQ-08,claim,CLM-2026-020735,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020735
+INJ-0866,DQ-08,claim,CLM-2026-010655,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010655
+INJ-0867,DQ-08,claim,CLM-2026-000257,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000257
+INJ-0868,DQ-08,claim,CLM-2026-023290,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023290
+INJ-0869,DQ-08,claim,CLM-2026-008138,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008138
+INJ-0870,DQ-08,claim,CLM-2026-004745,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-004745
+INJ-0871,DQ-08,claim,CLM-2026-005225,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005225
+INJ-0872,DQ-08,claim,CLM-2026-007943,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-007943
+INJ-0873,DQ-08,claim,CLM-2026-008184,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008184
+INJ-0874,DQ-08,claim,CLM-2026-017775,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017775
+INJ-0875,DQ-08,claim,CLM-2026-009421,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009421
+INJ-0876,DQ-08,claim,CLM-2026-010463,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010463
+INJ-0877,DQ-08,claim,CLM-2026-018154,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018154
+INJ-0878,DQ-08,claim,CLM-2026-022722,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022722
+INJ-0879,DQ-08,claim,CLM-2026-019162,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019162
+INJ-0880,DQ-08,claim,CLM-2026-014245,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014245
+INJ-0881,DQ-08,claim,CLM-2026-009134,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009134
+INJ-0882,DQ-08,claim,CLM-2026-024884,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-024884
+INJ-0883,DQ-08,claim,CLM-2026-018762,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018762
+INJ-0884,DQ-08,claim,CLM-2026-011797,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011797
+INJ-0885,DQ-08,claim,CLM-2026-015631,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-015631
+INJ-0886,DQ-08,claim,CLM-2026-024769,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-024769
+INJ-0887,DQ-08,claim,CLM-2026-005262,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005262
+INJ-0888,DQ-08,claim,CLM-2026-019174,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019174
+INJ-0889,DQ-08,claim,CLM-2026-008239,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008239
+INJ-0890,DQ-08,claim,CLM-2026-022188,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022188
+INJ-0891,DQ-08,claim,CLM-2026-009057,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009057
+INJ-0892,DQ-08,claim,CLM-2026-014921,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014921
+INJ-0893,DQ-08,claim,CLM-2026-018749,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018749
+INJ-0894,DQ-08,claim,CLM-2026-006880,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006880
+INJ-0895,DQ-08,claim,CLM-2026-020959,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020959
+INJ-0896,DQ-08,claim,CLM-2026-007173,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-007173
+INJ-0897,DQ-08,claim,CLM-2026-011161,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011161
+INJ-0898,DQ-08,claim,CLM-2026-016464,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016464
+INJ-0899,DQ-08,claim,CLM-2026-004133,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-004133
+INJ-0900,DQ-08,claim,CLM-2026-014027,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014027
+INJ-0901,DQ-08,claim,CLM-2026-016611,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016611
+INJ-0902,DQ-08,claim,CLM-2026-018957,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018957
+INJ-0903,DQ-08,claim,CLM-2026-020867,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020867
+INJ-0904,DQ-08,claim,CLM-2026-019667,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019667
+INJ-0905,DQ-08,claim,CLM-2026-006670,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006670
+INJ-0906,DQ-08,claim,CLM-2026-017805,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017805
+INJ-0907,DQ-08,claim,CLM-2026-021932,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021932
+INJ-0908,DQ-08,claim,CLM-2026-005263,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005263
+INJ-0909,DQ-08,claim,CLM-2026-001535,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001535
+INJ-0910,DQ-08,claim,CLM-2026-001049,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001049
+INJ-0911,DQ-08,claim,CLM-2026-005626,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005626
+INJ-0912,DQ-08,claim,CLM-2026-010972,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010972
+INJ-0913,DQ-08,claim,CLM-2026-005644,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005644
+INJ-0914,DQ-08,claim,CLM-2026-001947,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001947
+INJ-0915,DQ-08,claim,CLM-2026-006585,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006585
+INJ-0916,DQ-08,claim,CLM-2026-016209,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016209
+INJ-0917,DQ-08,claim,CLM-2026-013000,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-013000
+INJ-0918,DQ-08,claim,CLM-2026-022658,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022658
+INJ-0919,DQ-08,claim,CLM-2026-019530,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019530
+INJ-0920,DQ-08,claim,CLM-2026-004293,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-004293
+INJ-0921,DQ-08,claim,CLM-2026-000159,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000159
+INJ-0922,DQ-08,claim,CLM-2026-002285,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002285
+INJ-0923,DQ-08,claim,CLM-2026-014458,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014458
+INJ-0924,DQ-08,claim,CLM-2026-019632,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019632
+INJ-0925,DQ-08,claim,CLM-2026-010428,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010428
+INJ-0926,DQ-08,claim,CLM-2026-002697,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002697
+INJ-0927,DQ-08,claim,CLM-2026-023779,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023779
+INJ-0928,DQ-08,claim,CLM-2026-008257,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008257
+INJ-0929,DQ-08,claim,CLM-2026-005338,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005338
+INJ-0930,DQ-08,claim,CLM-2026-009659,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009659
+INJ-0931,DQ-08,claim,CLM-2026-021985,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021985
+INJ-0932,DQ-08,claim,CLM-2026-012993,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-012993
+INJ-0933,DQ-08,claim,CLM-2026-000773,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000773
+INJ-0934,DQ-08,claim,CLM-2026-017438,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017438
+INJ-0935,DQ-08,claim,CLM-2026-021051,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021051
+INJ-0936,DQ-08,claim,CLM-2026-021956,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021956
+INJ-0937,DQ-08,claim,CLM-2026-012375,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-012375
+INJ-0938,DQ-08,claim,CLM-2026-000370,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000370
+INJ-0939,DQ-08,claim,CLM-2026-020584,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020584
+INJ-0940,DQ-08,claim,CLM-2026-022414,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022414
+INJ-0941,DQ-08,claim,CLM-2026-002278,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002278
+INJ-0942,DQ-08,claim,CLM-2026-015832,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-015832
+INJ-0943,DQ-08,claim,CLM-2026-014409,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014409
+INJ-0944,DQ-08,claim,CLM-2026-007350,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-007350
+INJ-0945,DQ-08,claim,CLM-2026-010758,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010758
+INJ-0946,DQ-08,claim,CLM-2026-014587,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014587
+INJ-0947,DQ-08,claim,CLM-2026-011085,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011085
+INJ-0948,DQ-08,claim,CLM-2026-022331,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022331
+INJ-0949,DQ-08,claim,CLM-2026-017399,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017399
+INJ-0950,DQ-08,claim,CLM-2026-009501,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009501
+INJ-0951,DQ-08,claim,CLM-2026-001580,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001580
+INJ-0952,DQ-08,claim,CLM-2026-000815,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000815
+INJ-0953,DQ-08,claim,CLM-2026-018912,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018912
+INJ-0954,DQ-08,claim,CLM-2026-000051,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000051
+INJ-0955,DQ-08,claim,CLM-2026-008611,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008611
+INJ-0956,DQ-08,claim,CLM-2026-010763,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010763
+INJ-0957,DQ-08,claim,CLM-2026-018072,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018072
+INJ-0958,DQ-08,claim,CLM-2026-016857,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016857
+INJ-0959,DQ-08,claim,CLM-2026-002890,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002890
+INJ-0960,DQ-08,claim,CLM-2026-019280,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019280
+INJ-0961,DQ-08,claim,CLM-2026-006830,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006830
+INJ-0962,DQ-08,claim,CLM-2026-003844,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-003844
+INJ-0963,DQ-08,claim,CLM-2026-008554,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008554
+INJ-0964,DQ-08,claim,CLM-2026-017431,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017431
+INJ-0965,DQ-08,claim,CLM-2026-021735,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021735
+INJ-0966,DQ-08,claim,CLM-2026-002454,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002454
+INJ-0967,DQ-08,claim,CLM-2026-014221,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014221
+INJ-0968,DQ-08,claim,CLM-2026-005107,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005107
+INJ-0969,DQ-08,claim,CLM-2026-008521,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008521
+INJ-0970,DQ-08,claim,CLM-2026-022300,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022300
+INJ-0971,DQ-08,claim,CLM-2026-002694,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002694
+INJ-0972,DQ-08,claim,CLM-2026-003529,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-003529
+INJ-0973,DQ-08,claim,CLM-2026-011824,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011824
+INJ-0974,DQ-08,claim,CLM-2026-007370,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-007370
+INJ-0975,DQ-08,claim,CLM-2026-002126,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002126
+INJ-0976,DQ-08,claim,CLM-2026-024922,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-024922
+INJ-0977,DQ-08,claim,CLM-2026-023404,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023404
+INJ-0978,DQ-08,claim,CLM-2026-020362,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020362
+INJ-0979,DQ-08,claim,CLM-2026-001662,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001662
+INJ-0980,DQ-08,claim,CLM-2026-024724,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-024724
+INJ-0981,DQ-08,claim,CLM-2026-004488,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-004488
+INJ-0982,DQ-08,claim,CLM-2026-000099,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-000099
+INJ-0983,DQ-08,claim,CLM-2026-006423,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006423
+INJ-0984,DQ-08,claim,CLM-2026-008826,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008826
+INJ-0985,DQ-08,claim,CLM-2026-023943,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023943
+INJ-0986,DQ-08,claim,CLM-2026-001508,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-001508
+INJ-0987,DQ-08,claim,CLM-2026-008883,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008883
+INJ-0988,DQ-08,claim,CLM-2026-007919,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-007919
+INJ-0989,DQ-08,claim,CLM-2026-018299,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018299
+INJ-0990,DQ-08,claim,CLM-2026-015976,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-015976
+INJ-0991,DQ-08,claim,CLM-2026-008884,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008884
+INJ-0992,DQ-08,claim,CLM-2026-023253,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023253
+INJ-0993,DQ-08,claim,CLM-2026-014244,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014244
+INJ-0994,DQ-08,claim,CLM-2026-023440,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023440
+INJ-0995,DQ-08,claim,CLM-2026-002578,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-002578
+INJ-0996,DQ-08,claim,CLM-2026-023245,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-023245
+INJ-0997,DQ-08,claim,CLM-2026-008915,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008915
+INJ-0998,DQ-08,claim,CLM-2026-014911,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014911
+INJ-0999,DQ-08,claim,CLM-2026-012891,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-012891
+INJ-1000,DQ-08,claim,CLM-2026-022982,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022982
+INJ-1001,DQ-08,claim,CLM-2026-019361,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019361
+INJ-1002,DQ-08,claim,CLM-2026-005815,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005815
+INJ-1003,DQ-08,claim,CLM-2026-011281,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011281
+INJ-1004,DQ-08,claim,CLM-2026-019281,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019281
+INJ-1005,DQ-08,claim,CLM-2026-017073,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017073
+INJ-1006,DQ-08,claim,CLM-2026-013181,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-013181
+INJ-1007,DQ-08,claim,CLM-2026-006609,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006609
+INJ-1008,DQ-08,claim,CLM-2026-015905,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-015905
+INJ-1009,DQ-08,claim,CLM-2026-003235,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-003235
+INJ-1010,DQ-08,claim,CLM-2026-006232,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-006232
+INJ-1011,DQ-08,claim,CLM-2026-005496,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-005496
+INJ-1012,DQ-08,claim,CLM-2026-019730,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019730
+INJ-1013,DQ-08,claim,CLM-2026-016950,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016950
+INJ-1014,DQ-08,claim,CLM-2026-010240,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-010240
+INJ-1015,DQ-08,claim,CLM-2026-011234,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-011234
+INJ-1016,DQ-08,claim,CLM-2026-014359,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014359
+INJ-1017,DQ-08,claim,CLM-2026-018388,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-018388
+INJ-1018,DQ-08,claim,CLM-2026-020288,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020288
+INJ-1019,DQ-08,claim,CLM-2026-008741,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008741
+INJ-1020,DQ-08,claim,CLM-2026-012497,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-012497
+INJ-1021,DQ-08,claim,CLM-2026-014852,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014852
+INJ-1022,DQ-08,claim,CLM-2026-021660,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021660
+INJ-1023,DQ-08,claim,CLM-2026-009214,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009214
+INJ-1024,DQ-08,claim,CLM-2026-022682,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-022682
+INJ-1025,DQ-08,claim,CLM-2026-017865,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017865
+INJ-1026,DQ-08,claim,CLM-2026-019808,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-019808
+INJ-1027,DQ-08,claim,CLM-2026-014455,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014455
+INJ-1028,DQ-08,claim,CLM-2026-021728,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021728
+INJ-1029,DQ-08,claim,CLM-2026-014064,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-014064
+INJ-1030,DQ-08,claim,CLM-2026-008424,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-008424
+INJ-1031,DQ-08,claim,CLM-2026-021681,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-021681
+INJ-1032,DQ-08,claim,CLM-2026-016617,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-016617
+INJ-1033,DQ-08,claim,CLM-2026-020960,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-020960
+INJ-1034,DQ-08,claim,CLM-2026-017618,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017618
+INJ-1035,DQ-08,claim,CLM-2026-009962,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-009962
+INJ-1036,DQ-08,claim,CLM-2026-024858,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-024858
+INJ-1037,DQ-08,claim,CLM-2026-007675,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-007675
+INJ-1038,DQ-08,claim,CLM-2026-003317,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-003317
+INJ-1039,DQ-08,claim,CLM-2026-004610,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-004610
+INJ-1040,DQ-08,claim,CLM-2026-017138,Allowed amount is more than 10% below the contracted expectation on claim CLM-2026-017138
+INJ-1041,DQ-09,claim,CLM-2026-022791,Payer id is blank or absent from the payer master
+INJ-1042,DQ-09,claim,CLM-2026-002286,Payer id is blank or absent from the payer master
+INJ-1043,DQ-09,claim,CLM-2026-015835,Payer id is blank or absent from the payer master
+INJ-1044,DQ-09,claim,CLM-2026-001974,Payer id is blank or absent from the payer master
+INJ-1045,DQ-09,claim,CLM-2026-002483,Payer id is blank or absent from the payer master
+INJ-1046,DQ-09,claim,CLM-2026-006128,Payer id is blank or absent from the payer master
+INJ-1047,DQ-09,claim,CLM-2026-012597,Payer id is blank or absent from the payer master
+INJ-1048,DQ-09,claim,CLM-2026-012654,Payer id is blank or absent from the payer master
+INJ-1049,DQ-09,claim,CLM-2026-000074,Payer id is blank or absent from the payer master
+INJ-1050,DQ-09,claim,CLM-2026-017927,Payer id is blank or absent from the payer master
+INJ-1051,DQ-09,claim,CLM-2026-003361,Payer id is blank or absent from the payer master
+INJ-1052,DQ-09,claim,CLM-2026-013875,Payer id is blank or absent from the payer master
+INJ-1053,DQ-09,claim,CLM-2026-017920,Payer id is blank or absent from the payer master
+INJ-1054,DQ-09,claim,CLM-2026-018696,Payer id is blank or absent from the payer master
+INJ-1055,DQ-09,claim,CLM-2026-007694,Payer id is blank or absent from the payer master
+INJ-1056,DQ-09,claim,CLM-2026-001672,Payer id is blank or absent from the payer master
+INJ-1057,DQ-09,claim,CLM-2026-018528,Payer id is blank or absent from the payer master
+INJ-1058,DQ-09,claim,CLM-2026-019720,Payer id is blank or absent from the payer master
+INJ-1059,DQ-09,claim,CLM-2026-024994,Payer id is blank or absent from the payer master
+INJ-1060,DQ-09,claim,CLM-2026-022562,Payer id is blank or absent from the payer master
+INJ-1061,DQ-09,claim,CLM-2026-021169,Payer id is blank or absent from the payer master
+INJ-1062,DQ-09,claim,CLM-2026-021602,Payer id is blank or absent from the payer master
+INJ-1063,DQ-09,claim,CLM-2026-023090,Payer id is blank or absent from the payer master
+INJ-1064,DQ-09,claim,CLM-2026-022450,Payer id is blank or absent from the payer master
+INJ-1065,DQ-09,claim,CLM-2026-021666,Payer id is blank or absent from the payer master
+INJ-1066,DQ-09,claim,CLM-2026-020152,Payer id is blank or absent from the payer master
+INJ-1067,DQ-09,claim,CLM-2026-008132,Payer id is blank or absent from the payer master
+INJ-1068,DQ-09,claim,CLM-2026-016148,Payer id is blank or absent from the payer master
+INJ-1069,DQ-09,claim,CLM-2026-012948,Payer id is blank or absent from the payer master
+INJ-1070,DQ-09,claim,CLM-2026-016472,Payer id is blank or absent from the payer master
+INJ-1071,DQ-09,claim,CLM-2026-018553,Payer id is blank or absent from the payer master
+INJ-1072,DQ-09,claim,CLM-2026-009579,Payer id is blank or absent from the payer master
+INJ-1073,DQ-09,claim,CLM-2026-012487,Payer id is blank or absent from the payer master
+INJ-1074,DQ-09,claim,CLM-2026-003460,Payer id is blank or absent from the payer master
+INJ-1075,DQ-09,claim,CLM-2026-017188,Payer id is blank or absent from the payer master
+INJ-1076,DQ-09,claim,CLM-2026-013349,Payer id is blank or absent from the payer master
+INJ-1077,DQ-09,claim,CLM-2026-010453,Payer id is blank or absent from the payer master
+INJ-1078,DQ-09,claim,CLM-2026-012877,Payer id is blank or absent from the payer master
+INJ-1079,DQ-09,claim,CLM-2026-002885,Payer id is blank or absent from the payer master
+INJ-1080,DQ-09,claim,CLM-2026-021822,Payer id is blank or absent from the payer master
+INJ-1081,DQ-09,claim,CLM-2026-023753,Payer id is blank or absent from the payer master
+INJ-1082,DQ-09,claim,CLM-2026-005036,Payer id is blank or absent from the payer master
+INJ-1083,DQ-09,claim,CLM-2026-006643,Payer id is blank or absent from the payer master
+INJ-1084,DQ-09,claim,CLM-2026-014873,Payer id is blank or absent from the payer master
+INJ-1085,DQ-09,claim,CLM-2026-007110,Payer id is blank or absent from the payer master
+INJ-1086,DQ-09,claim,CLM-2026-020415,Payer id is blank or absent from the payer master
+INJ-1087,DQ-09,claim,CLM-2026-012343,Payer id is blank or absent from the payer master
+INJ-1088,DQ-09,claim,CLM-2026-020043,Payer id is blank or absent from the payer master
+INJ-1089,DQ-09,claim,CLM-2026-022839,Payer id is blank or absent from the payer master
+INJ-1090,DQ-09,claim,CLM-2026-014498,Payer id is blank or absent from the payer master
+INJ-1091,DQ-09,claim,CLM-2026-009946,Payer id is blank or absent from the payer master
+INJ-1092,DQ-09,claim,CLM-2026-019847,Payer id is blank or absent from the payer master
+INJ-1093,DQ-09,claim,CLM-2026-018552,Payer id is blank or absent from the payer master
+INJ-1094,DQ-09,claim,CLM-2026-024358,Payer id is blank or absent from the payer master
+INJ-1095,DQ-09,claim,CLM-2026-014842,Payer id is blank or absent from the payer master
+INJ-1096,DQ-10,claim,CLM-2026-015169,Provider NPI fails the 10-digit Luhn standard
+INJ-1097,DQ-10,claim,CLM-2026-023846,Provider NPI fails the 10-digit Luhn standard
+INJ-1098,DQ-10,claim,CLM-2026-003472,Provider NPI fails the 10-digit Luhn standard
+INJ-1099,DQ-10,claim,CLM-2026-016885,Provider NPI fails the 10-digit Luhn standard
+INJ-1100,DQ-10,claim,CLM-2026-019650,Provider NPI fails the 10-digit Luhn standard
+INJ-1101,DQ-10,claim,CLM-2026-021181,Provider NPI fails the 10-digit Luhn standard
+INJ-1102,DQ-10,claim,CLM-2026-019332,Provider NPI fails the 10-digit Luhn standard
+INJ-1103,DQ-10,claim,CLM-2026-012012,Provider NPI fails the 10-digit Luhn standard
+INJ-1104,DQ-10,claim,CLM-2026-006117,Provider NPI fails the 10-digit Luhn standard
+INJ-1105,DQ-10,claim,CLM-2026-018341,Provider NPI fails the 10-digit Luhn standard
+INJ-1106,DQ-10,claim,CLM-2026-005553,Provider NPI fails the 10-digit Luhn standard
+INJ-1107,DQ-10,claim,CLM-2026-018226,Provider NPI fails the 10-digit Luhn standard
+INJ-1108,DQ-10,claim,CLM-2026-011185,Provider NPI fails the 10-digit Luhn standard
+INJ-1109,DQ-10,claim,CLM-2026-015338,Provider NPI fails the 10-digit Luhn standard
+INJ-1110,DQ-10,claim,CLM-2026-024702,Provider NPI fails the 10-digit Luhn standard
+INJ-1111,DQ-10,claim,CLM-2026-002474,Provider NPI fails the 10-digit Luhn standard
+INJ-1112,DQ-10,claim,CLM-2026-008661,Provider NPI fails the 10-digit Luhn standard
+INJ-1113,DQ-10,claim,CLM-2026-008931,Provider NPI fails the 10-digit Luhn standard
+INJ-1114,DQ-10,claim,CLM-2026-002767,Provider NPI fails the 10-digit Luhn standard
+INJ-1115,DQ-10,claim,CLM-2026-000113,Provider NPI fails the 10-digit Luhn standard
+INJ-1116,DQ-10,claim,CLM-2026-011568,Provider NPI fails the 10-digit Luhn standard
+INJ-1117,DQ-10,claim,CLM-2026-024868,Provider NPI fails the 10-digit Luhn standard
+INJ-1118,DQ-10,claim,CLM-2026-021623,Provider NPI fails the 10-digit Luhn standard
+INJ-1119,DQ-10,claim,CLM-2026-021362,Provider NPI fails the 10-digit Luhn standard
+INJ-1120,DQ-10,claim,CLM-2026-002016,Provider NPI fails the 10-digit Luhn standard
+INJ-1121,DQ-10,claim,CLM-2026-002077,Provider NPI fails the 10-digit Luhn standard
+INJ-1122,DQ-10,claim,CLM-2026-018893,Provider NPI fails the 10-digit Luhn standard
+INJ-1123,DQ-10,claim,CLM-2026-019618,Provider NPI fails the 10-digit Luhn standard
+INJ-1124,DQ-10,claim,CLM-2026-009404,Provider NPI fails the 10-digit Luhn standard
+INJ-1125,DQ-10,claim,CLM-2026-009347,Provider NPI fails the 10-digit Luhn standard
+INJ-1126,DQ-10,claim,CLM-2026-021857,Provider NPI fails the 10-digit Luhn standard
+INJ-1127,DQ-10,claim,CLM-2026-018624,Provider NPI fails the 10-digit Luhn standard
+INJ-1128,DQ-10,claim,CLM-2026-005015,Provider NPI fails the 10-digit Luhn standard
+INJ-1129,DQ-10,claim,CLM-2026-003394,Provider NPI fails the 10-digit Luhn standard
+INJ-1130,DQ-10,claim,CLM-2026-006420,Provider NPI fails the 10-digit Luhn standard
+INJ-1131,DQ-10,claim,CLM-2026-008541,Provider NPI fails the 10-digit Luhn standard
+INJ-1132,DQ-10,claim,CLM-2026-009407,Provider NPI fails the 10-digit Luhn standard
+INJ-1133,DQ-10,claim,CLM-2026-023632,Provider NPI fails the 10-digit Luhn standard
+INJ-1134,DQ-10,claim,CLM-2026-014499,Provider NPI fails the 10-digit Luhn standard
+INJ-1135,DQ-10,claim,CLM-2026-024596,Provider NPI fails the 10-digit Luhn standard
+INJ-1136,DQ-10,claim,CLM-2026-023409,Provider NPI fails the 10-digit Luhn standard
+INJ-1137,DQ-10,claim,CLM-2026-019321,Provider NPI fails the 10-digit Luhn standard
+INJ-1138,DQ-10,claim,CLM-2026-020616,Provider NPI fails the 10-digit Luhn standard
+INJ-1139,DQ-10,claim,CLM-2026-015895,Provider NPI fails the 10-digit Luhn standard
+INJ-1140,DQ-10,claim,CLM-2026-013945,Provider NPI fails the 10-digit Luhn standard
+INJ-1141,DQ-10,claim,CLM-2026-022052,Provider NPI fails the 10-digit Luhn standard
+INJ-1142,DQ-10,claim,CLM-2026-018691,Provider NPI fails the 10-digit Luhn standard
+INJ-1143,DQ-10,claim,CLM-2026-018895,Provider NPI fails the 10-digit Luhn standard
+INJ-1144,DQ-10,claim,CLM-2026-003988,Provider NPI fails the 10-digit Luhn standard
+INJ-1145,DQ-10,claim,CLM-2026-000705,Provider NPI fails the 10-digit Luhn standard
+INJ-1146,DQ-10,claim,CLM-2026-024318,Provider NPI fails the 10-digit Luhn standard
+INJ-1147,DQ-10,claim,CLM-2026-009624,Provider NPI fails the 10-digit Luhn standard
+INJ-1148,DQ-10,claim,CLM-2026-013131,Provider NPI fails the 10-digit Luhn standard
+INJ-1149,DQ-10,claim,CLM-2026-019755,Provider NPI fails the 10-digit Luhn standard
+INJ-1150,DQ-10,claim,CLM-2026-008580,Provider NPI fails the 10-digit Luhn standard
+INJ-1151,DQ-10,claim,CLM-2026-014969,Provider NPI fails the 10-digit Luhn standard
+INJ-1152,DQ-10,claim,CLM-2026-024339,Provider NPI fails the 10-digit Luhn standard
+INJ-1153,DQ-10,claim,CLM-2026-016790,Provider NPI fails the 10-digit Luhn standard
+INJ-1154,DQ-10,claim,CLM-2026-000312,Provider NPI fails the 10-digit Luhn standard
+INJ-1155,DQ-10,claim,CLM-2026-016269,Provider NPI fails the 10-digit Luhn standard
+INJ-1156,DQ-10,claim,CLM-2026-021322,Provider NPI fails the 10-digit Luhn standard
+INJ-1157,DQ-10,claim,CLM-2026-023889,Provider NPI fails the 10-digit Luhn standard
+INJ-1158,DQ-10,claim,CLM-2026-021324,Provider NPI fails the 10-digit Luhn standard
+INJ-1159,DQ-10,claim,CLM-2026-022431,Provider NPI fails the 10-digit Luhn standard
+INJ-1160,DQ-10,claim,CLM-2026-000371,Provider NPI fails the 10-digit Luhn standard
+INJ-1161,DQ-10,claim,CLM-2026-012612,Provider NPI fails the 10-digit Luhn standard
+INJ-1162,DQ-10,claim,CLM-2026-014927,Provider NPI fails the 10-digit Luhn standard
+INJ-1163,DQ-10,claim,CLM-2026-017820,Provider NPI fails the 10-digit Luhn standard
+INJ-1164,DQ-10,claim,CLM-2026-007664,Provider NPI fails the 10-digit Luhn standard
+INJ-1165,DQ-10,claim,CLM-2026-007712,Provider NPI fails the 10-digit Luhn standard
+INJ-1166,DQ-11,claim,CLM-2026-001915,Remittance dated before the date of service
+INJ-1167,DQ-11,claim,CLM-2026-015550,Claim submitted before the date of service
+INJ-1168,DQ-11,claim,CLM-2026-010993,Date of service is in the future
+INJ-1169,DQ-11,claim,CLM-2026-009806,Remittance dated before the date of service
+INJ-1170,DQ-11,claim,CLM-2026-003247,Claim submitted before the date of service
+INJ-1171,DQ-11,claim,CLM-2026-008778,Date of service is in the future
+INJ-1172,DQ-11,claim,CLM-2026-002410,Date of service is in the future
+INJ-1173,DQ-11,claim,CLM-2026-012918,Date of service is in the future
+INJ-1174,DQ-11,claim,CLM-2026-006129,Date of service is in the future
+INJ-1175,DQ-11,claim,CLM-2026-021482,Remittance dated before the date of service
+INJ-1176,DQ-11,claim,CLM-2026-020968,Remittance dated before the date of service
+INJ-1177,DQ-11,claim,CLM-2026-020338,Remittance dated before the date of service
+INJ-1178,DQ-11,claim,CLM-2026-014926,Date of service is in the future
+INJ-1179,DQ-11,claim,CLM-2026-008323,Claim submitted before the date of service
+INJ-1180,DQ-11,claim,CLM-2026-003588,Date of service is in the future
+INJ-1181,DQ-11,claim,CLM-2026-024119,Date of service is in the future
+INJ-1182,DQ-11,claim,CLM-2026-020565,Claim submitted before the date of service
+INJ-1183,DQ-11,claim,CLM-2026-017443,Claim submitted before the date of service
+INJ-1184,DQ-11,claim,CLM-2026-020825,Claim submitted before the date of service
+INJ-1185,DQ-11,claim,CLM-2026-012787,Remittance dated before the date of service
+INJ-1186,DQ-11,claim,CLM-2026-015238,Date of service is in the future
+INJ-1187,DQ-11,claim,CLM-2026-007219,Remittance dated before the date of service
+INJ-1188,DQ-11,claim,CLM-2026-004266,Date of service is in the future
+INJ-1189,DQ-11,claim,CLM-2026-013718,Date of service is in the future
+INJ-1190,DQ-11,claim,CLM-2026-020768,Remittance dated before the date of service
+INJ-1191,DQ-11,claim,CLM-2026-018385,Remittance dated before the date of service
+INJ-1192,DQ-11,claim,CLM-2026-023354,Date of service is in the future
+INJ-1193,DQ-11,claim,CLM-2026-005261,Date of service is in the future
+INJ-1194,DQ-11,claim,CLM-2026-008393,Date of service is in the future
+INJ-1195,DQ-11,claim,CLM-2026-022420,Remittance dated before the date of service
+INJ-1196,DQ-11,claim,CLM-2026-021794,Date of service is in the future
+INJ-1197,DQ-11,claim,CLM-2026-015864,Claim submitted before the date of service
+INJ-1198,DQ-11,claim,CLM-2026-023868,Remittance dated before the date of service
+INJ-1199,DQ-11,claim,CLM-2026-000710,Remittance dated before the date of service
+INJ-1200,DQ-11,claim,CLM-2026-023990,Claim submitted before the date of service
+INJ-1201,DQ-11,claim,CLM-2026-006604,Date of service is in the future
+INJ-1202,DQ-11,claim,CLM-2026-015133,Date of service is in the future
+INJ-1203,DQ-11,claim,CLM-2026-005996,Date of service is in the future
+INJ-1204,DQ-11,claim,CLM-2026-002613,Remittance dated before the date of service
+INJ-1205,DQ-11,claim,CLM-2026-021569,Claim submitted before the date of service
+INJ-1206,DQ-11,claim,CLM-2026-024609,Remittance dated before the date of service
+INJ-1207,DQ-11,claim,CLM-2026-016859,Claim submitted before the date of service
+INJ-1208,DQ-11,claim,CLM-2026-012134,Remittance dated before the date of service
+INJ-1209,DQ-11,claim,CLM-2026-006497,Claim submitted before the date of service
+INJ-1210,DQ-11,claim,CLM-2026-019116,Claim submitted before the date of service
+INJ-1211,DQ-11,claim,CLM-2026-013225,Remittance dated before the date of service
+INJ-1212,DQ-11,claim,CLM-2026-011644,Claim submitted before the date of service
+INJ-1213,DQ-11,claim,CLM-2026-014445,Remittance dated before the date of service
+INJ-1214,DQ-11,claim,CLM-2026-006740,Date of service is in the future
+INJ-1215,DQ-11,claim,CLM-2026-009433,Remittance dated before the date of service
+INJ-1216,DQ-11,claim,CLM-2026-002674,Claim submitted before the date of service
+INJ-1217,DQ-11,claim,CLM-2026-023342,Remittance dated before the date of service
+INJ-1218,DQ-11,claim,CLM-2026-009682,Remittance dated before the date of service
+INJ-1219,DQ-11,claim,CLM-2026-023999,Date of service is in the future
+INJ-1220,DQ-11,claim,CLM-2026-000393,Date of service is in the future
+INJ-1221,DQ-11,claim,CLM-2026-022929,Date of service is in the future
+INJ-1222,DQ-11,claim,CLM-2026-013388,Remittance dated before the date of service
+INJ-1223,DQ-11,claim,CLM-2026-019315,Remittance dated before the date of service
+INJ-1224,DQ-11,claim,CLM-2026-004465,Remittance dated before the date of service
+INJ-1225,DQ-11,claim,CLM-2026-010672,Remittance dated before the date of service
+INJ-1226,DQ-11,claim,CLM-2026-023618,Remittance dated before the date of service
+INJ-1227,DQ-11,claim,CLM-2026-002735,Remittance dated before the date of service
+INJ-1228,DQ-11,claim,CLM-2026-012688,Remittance dated before the date of service
+INJ-1229,DQ-11,claim,CLM-2026-006610,Remittance dated before the date of service
+INJ-1230,DQ-11,claim,CLM-2026-014152,Remittance dated before the date of service
+INJ-1231,DQ-11,claim,CLM-2026-015281,Date of service is in the future
+INJ-1232,DQ-11,claim,CLM-2026-018163,Date of service is in the future
+INJ-1233,DQ-11,claim,CLM-2026-019317,Claim submitted before the date of service
+INJ-1234,DQ-11,claim,CLM-2026-004857,Claim submitted before the date of service
+INJ-1235,DQ-11,claim,CLM-2026-003924,Claim submitted before the date of service
+INJ-1236,DQ-11,claim,CLM-2026-013890,Remittance dated before the date of service
+INJ-1237,DQ-11,claim,CLM-2026-019660,Claim submitted before the date of service
+INJ-1238,DQ-11,claim,CLM-2026-010846,Remittance dated before the date of service
+INJ-1239,DQ-11,claim,CLM-2026-024562,Claim submitted before the date of service
+INJ-1240,DQ-11,claim,CLM-2026-023168,Remittance dated before the date of service
+INJ-1241,DQ-11,claim,CLM-2026-019557,Date of service is in the future
+INJ-1242,DQ-11,claim,CLM-2026-014626,Remittance dated before the date of service
+INJ-1243,DQ-11,claim,CLM-2026-020123,Date of service is in the future
+INJ-1244,DQ-11,claim,CLM-2026-015358,Claim submitted before the date of service
+INJ-1245,DQ-11,claim,CLM-2026-007015,Date of service is in the future
+INJ-1246,DQ-11,claim,CLM-2026-015940,Remittance dated before the date of service
+INJ-1247,DQ-11,claim,CLM-2026-017418,Remittance dated before the date of service
+INJ-1248,DQ-11,claim,CLM-2026-016532,Claim submitted before the date of service
+INJ-1249,DQ-11,claim,CLM-2026-002276,Claim submitted before the date of service
+INJ-1250,DQ-11,claim,CLM-2026-022064,Claim submitted before the date of service
+INJ-1251,DQ-12,claim,CLM-2026-022020,Billed amount is zero or negative
+INJ-1252,DQ-12,claim,CLM-2026-023060,ICD-10 code blank or malformed
+INJ-1253,DQ-12,claim,CLM-2026-014385,Billed amount is zero or negative
+INJ-1254,DQ-12,claim,CLM-2026-015614,Date of service is blank
+INJ-1255,DQ-12,claim,CLM-2026-017334,Patient identifier is blank
+INJ-1256,DQ-12,claim,CLM-2026-022647,CPT code blank or not a valid 5-character code
+INJ-1257,DQ-12,claim,CLM-2026-022107,CPT code blank or not a valid 5-character code
+INJ-1258,DQ-12,claim,CLM-2026-001416,ICD-10 code blank or malformed
+INJ-1259,DQ-12,claim,CLM-2026-023173,CPT code blank or not a valid 5-character code
+INJ-1260,DQ-12,claim,CLM-2026-015508,CPT code blank or not a valid 5-character code
+INJ-1261,DQ-12,claim,CLM-2026-006554,CPT code blank or not a valid 5-character code
+INJ-1262,DQ-12,claim,CLM-2026-013018,Patient identifier is blank
+INJ-1263,DQ-12,claim,CLM-2026-011448,Patient identifier is blank
+INJ-1264,DQ-12,claim,CLM-2026-010413,Patient identifier is blank
+INJ-1265,DQ-12,claim,CLM-2026-015294,Billed amount is zero or negative
+INJ-1266,DQ-12,claim,CLM-2026-009489,Patient identifier is blank
+INJ-1267,DQ-12,claim,CLM-2026-024364,CPT code blank or not a valid 5-character code
+INJ-1268,DQ-12,claim,CLM-2026-001688,CPT code blank or not a valid 5-character code
+INJ-1269,DQ-12,claim,CLM-2026-005403,ICD-10 code blank or malformed
+INJ-1270,DQ-12,claim,CLM-2026-007209,Patient identifier is blank
+INJ-1271,DQ-12,claim,CLM-2026-019757,Billed amount is zero or negative
+INJ-1272,DQ-12,claim,CLM-2026-020029,Date of service is blank
+INJ-1273,DQ-12,claim,CLM-2026-020064,Patient identifier is blank
+INJ-1274,DQ-12,claim,CLM-2026-016995,Patient identifier is blank
+INJ-1275,DQ-12,claim,CLM-2026-003159,Billed amount is zero or negative
+INJ-1276,DQ-12,claim,CLM-2026-004382,ICD-10 code blank or malformed
+INJ-1277,DQ-12,claim,CLM-2026-024201,Date of service is blank
+INJ-1278,DQ-12,claim,CLM-2026-002003,Date of service is blank
+INJ-1279,DQ-12,claim,CLM-2026-023147,ICD-10 code blank or malformed
+INJ-1280,DQ-12,claim,CLM-2026-021390,Billed amount is zero or negative
+INJ-1281,DQ-12,claim,CLM-2026-013452,Billed amount is zero or negative
+INJ-1282,DQ-12,claim,CLM-2026-013216,CPT code blank or not a valid 5-character code
+INJ-1283,DQ-12,claim,CLM-2026-014137,Billed amount is zero or negative
+INJ-1284,DQ-12,claim,CLM-2026-007246,Date of service is blank
+INJ-1285,DQ-12,claim,CLM-2026-001106,Date of service is blank
+INJ-1286,DQ-12,claim,CLM-2026-006818,Date of service is blank
+INJ-1287,DQ-12,claim,CLM-2026-017723,Billed amount is zero or negative
+INJ-1288,DQ-12,claim,CLM-2026-009009,Date of service is blank
+INJ-1289,DQ-12,claim,CLM-2026-005314,CPT code blank or not a valid 5-character code
+INJ-1290,DQ-12,claim,CLM-2026-022627,Date of service is blank
+INJ-1291,DQ-12,claim,CLM-2026-005522,Billed amount is zero or negative
+INJ-1292,DQ-12,claim,CLM-2026-010395,CPT code blank or not a valid 5-character code
+INJ-1293,DQ-12,claim,CLM-2026-012473,Patient identifier is blank
+INJ-1294,DQ-12,claim,CLM-2026-007629,CPT code blank or not a valid 5-character code
+INJ-1295,DQ-12,claim,CLM-2026-004205,Patient identifier is blank
+INJ-1296,DQ-12,claim,CLM-2026-005622,CPT code blank or not a valid 5-character code
+INJ-1297,DQ-12,claim,CLM-2026-000109,Patient identifier is blank
+INJ-1298,DQ-12,claim,CLM-2026-010576,Billed amount is zero or negative
+INJ-1299,DQ-12,claim,CLM-2026-001606,Patient identifier is blank
+INJ-1300,DQ-12,claim,CLM-2026-003544,ICD-10 code blank or malformed
+INJ-1301,DQ-12,claim,CLM-2026-002358,ICD-10 code blank or malformed
+INJ-1302,DQ-12,claim,CLM-2026-014892,Date of service is blank
+INJ-1303,DQ-12,claim,CLM-2026-020250,CPT code blank or not a valid 5-character code
+INJ-1304,DQ-12,claim,CLM-2026-009484,Billed amount is zero or negative
+INJ-1305,DQ-12,claim,CLM-2026-001347,ICD-10 code blank or malformed
+INJ-1306,DQ-12,claim,CLM-2026-007336,ICD-10 code blank or malformed
+INJ-1307,DQ-12,claim,CLM-2026-002733,ICD-10 code blank or malformed
+INJ-1308,DQ-12,claim,CLM-2026-004908,CPT code blank or not a valid 5-character code
+INJ-1309,DQ-12,claim,CLM-2026-004901,ICD-10 code blank or malformed
+INJ-1310,DQ-12,claim,CLM-2026-015089,Patient identifier is blank
+INJ-1311,DQ-12,claim,CLM-2026-004041,ICD-10 code blank or malformed
+INJ-1312,DQ-12,claim,CLM-2026-003323,CPT code blank or not a valid 5-character code
+INJ-1313,DQ-12,claim,CLM-2026-015638,Billed amount is zero or negative
+INJ-1314,DQ-12,claim,CLM-2026-023581,ICD-10 code blank or malformed
+INJ-1315,DQ-12,claim,CLM-2026-003502,Patient identifier is blank
+INJ-1316,DQ-12,claim,CLM-2026-020388,Date of service is blank
+INJ-1317,DQ-12,claim,CLM-2026-018664,Patient identifier is blank
+INJ-1318,DQ-12,claim,CLM-2026-000256,ICD-10 code blank or malformed
+INJ-1319,DQ-12,claim,CLM-2026-002387,CPT code blank or not a valid 5-character code
+INJ-1320,DQ-12,claim,CLM-2026-007525,Patient identifier is blank
+INJ-1321,DQ-12,claim,CLM-2026-010102,Date of service is blank
+INJ-1322,DQ-12,claim,CLM-2026-006050,ICD-10 code blank or malformed
+INJ-1323,DQ-12,claim,CLM-2026-005489,Billed amount is zero or negative
+INJ-1324,DQ-12,claim,CLM-2026-005980,Billed amount is zero or negative
+INJ-1325,DQ-12,claim,CLM-2026-014196,CPT code blank or not a valid 5-character code
+INJ-1326,DQ-12,claim,CLM-2026-021715,Patient identifier is blank
+INJ-1327,DQ-12,claim,CLM-2026-018471,Patient identifier is blank
+INJ-1328,DQ-12,claim,CLM-2026-003383,Billed amount is zero or negative
+INJ-1329,DQ-12,claim,CLM-2026-006104,Billed amount is zero or negative
+INJ-1330,DQ-12,claim,CLM-2026-024294,Patient identifier is blank
+INJ-1331,DQ-12,claim,CLM-2026-023964,Billed amount is zero or negative
+INJ-1332,DQ-12,claim,CLM-2026-010592,Date of service is blank
+INJ-1333,DQ-12,claim,CLM-2026-003319,Billed amount is zero or negative
+INJ-1334,DQ-12,claim,CLM-2026-006566,Date of service is blank
+INJ-1335,DQ-12,claim,CLM-2026-014772,Billed amount is zero or negative
+INJ-1336,DQ-12,claim,CLM-2026-018823,ICD-10 code blank or malformed
+INJ-1337,DQ-12,claim,CLM-2026-022499,CPT code blank or not a valid 5-character code
+INJ-1338,DQ-12,claim,CLM-2026-012000,Date of service is blank
+INJ-1339,DQ-12,claim,CLM-2026-009973,Patient identifier is blank
+INJ-1340,DQ-12,claim,CLM-2026-011856,Billed amount is zero or negative
+INJ-1341,DQ-12,claim,CLM-2026-002525,CPT code blank or not a valid 5-character code
+INJ-1342,DQ-12,claim,CLM-2026-015564,Patient identifier is blank
+INJ-1343,DQ-12,claim,CLM-2026-019092,CPT code blank or not a valid 5-character code
+INJ-1344,DQ-12,claim,CLM-2026-016937,Billed amount is zero or negative
+INJ-1345,DQ-12,claim,CLM-2026-021019,Billed amount is zero or negative
+INJ-1346,DQ-12,claim,CLM-2026-002399,Patient identifier is blank
+INJ-1347,DQ-12,claim,CLM-2026-002986,Patient identifier is blank
+INJ-1348,DQ-12,claim,CLM-2026-014042,Billed amount is zero or negative
+INJ-1349,DQ-12,claim,CLM-2026-022125,Patient identifier is blank
+INJ-1350,DQ-12,claim,CLM-2026-006401,Billed amount is zero or negative
+INJ-1351,DQ-12,claim,CLM-2026-022727,CPT code blank or not a valid 5-character code
+INJ-1352,DQ-12,claim,CLM-2026-017577,Patient identifier is blank
+INJ-1353,DQ-12,claim,CLM-2026-014440,Billed amount is zero or negative
+INJ-1354,DQ-12,claim,CLM-2026-011800,CPT code blank or not a valid 5-character code
+INJ-1355,DQ-12,claim,CLM-2026-024854,Date of service is blank
+INJ-1356,DQ-12,claim,CLM-2026-016558,ICD-10 code blank or malformed
+INJ-1357,DQ-12,claim,CLM-2026-001591,Billed amount is zero or negative
+INJ-1358,DQ-12,claim,CLM-2026-023786,ICD-10 code blank or malformed
+INJ-1359,DQ-12,claim,CLM-2026-021763,Patient identifier is blank
+INJ-1360,DQ-12,claim,CLM-2026-013337,Billed amount is zero or negative
+INJ-1361,DQ-12,claim,CLM-2026-018258,Patient identifier is blank
+INJ-1362,DQ-12,claim,CLM-2026-015666,ICD-10 code blank or malformed
+INJ-1363,DQ-12,claim,CLM-2026-022490,Date of service is blank
+INJ-1364,DQ-12,claim,CLM-2026-001482,Billed amount is zero or negative
+INJ-1365,DQ-12,claim,CLM-2026-015381,Billed amount is zero or negative
+INJ-1366,DQ-12,claim,CLM-2026-004886,ICD-10 code blank or malformed
+INJ-1367,DQ-12,claim,CLM-2026-007446,CPT code blank or not a valid 5-character code
+INJ-1368,DQ-12,claim,CLM-2026-018728,Date of service is blank
+INJ-1369,DQ-12,claim,CLM-2026-018860,CPT code blank or not a valid 5-character code
+INJ-1370,DQ-12,claim,CLM-2026-009656,ICD-10 code blank or malformed
+INJ-1371,DQ-12,claim,CLM-2026-023211,CPT code blank or not a valid 5-character code
+INJ-1372,DQ-12,claim,CLM-2026-024253,CPT code blank or not a valid 5-character code
+INJ-1373,DQ-12,claim,CLM-2026-008595,CPT code blank or not a valid 5-character code
+INJ-1374,DQ-12,claim,CLM-2026-018780,Patient identifier is blank
+INJ-1375,DQ-12,claim,CLM-2026-001884,ICD-10 code blank or malformed
+INJ-1376,DQ-12,claim,CLM-2026-019283,Date of service is blank
+INJ-1377,DQ-12,claim,CLM-2026-003828,Patient identifier is blank
+INJ-1378,DQ-12,claim,CLM-2026-021067,Billed amount is zero or negative
+INJ-1379,DQ-12,claim,CLM-2026-001157,CPT code blank or not a valid 5-character code
+INJ-1380,DQ-12,claim,CLM-2026-023586,ICD-10 code blank or malformed

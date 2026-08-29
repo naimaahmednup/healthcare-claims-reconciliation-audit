@@ -1,0 +1,10 @@
+payer_id,payer_name,payer_type,contract_rate
+PAY-MCR-001,Medicare Part B,MEDICARE,0.62
+PAY-MCD-002,State Medicaid,MEDICAID,0.48
+PAY-BCB-003,Blue Cross Blue Shield,COMMERCIAL,0.71
+PAY-UHC-004,UnitedHealthcare,COMMERCIAL,0.68
+PAY-AET-005,Aetna,COMMERCIAL,0.69
+PAY-CIG-006,Cigna,COMMERCIAL,0.67
+PAY-HUM-007,Humana Medicare Advantage,MEDICARE,0.64
+PAY-TRC-008,TRICARE East,GOVERNMENT,0.60
+PAY-WCP-009,Workers Compensation Fund,WORKCOMP,0.75
