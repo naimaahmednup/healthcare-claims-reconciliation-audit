@@ -742,47 +742,53 @@ db.cell(row=11, column=1,
 db.cell(row=11, column=1).font = Font(name=FONT, size=9, italic=True, color=MUTED)
 db.merge_cells(start_row=11, start_column=1, end_row=11, end_column=8)
 
-ctrl_head = ["Check", "What it tests", "SQL count", "Excel count", "Difference", "Status"]
-for i, h in enumerate(ctrl_head, start=1):
-    db.cell(row=13, column=i, value=h)
-style_header(db, 13, len(ctrl_head))
+# The description column is merged across B:C so the text has room to display.
+# At a single column width it was clipped by the neighbouring cell, which is
+# exactly the sort of thing that makes a workbook look unfinished.
+for col, h in ((1, "Check"), (2, "What it tests"), (4, "SQL count"),
+               (5, "Excel count"), (6, "Difference"), (7, "Status")):
+    db.cell(row=13, column=col, value=h)
+style_header(db, 13, 7)
+db.merge_cells(start_row=13, start_column=2, end_row=13, end_column=3)
 
 CTRL = [
-    ("DQ-05", "Claim marked PAID with no remittance line", "NO REMITTANCE (PAID)"),
-    ("DQ-06", "Billed does not equal paid + patient responsibility + adjustment", "MISMATCH"),
+    ("DQ-05", "Claim marked PAID, no remittance line", "NO REMITTANCE (PAID)"),
+    ("DQ-06", "Billed \u2260 paid + patient resp + adjustment", "MISMATCH"),
     ("DQ-07", "Paid exceeds the billed charge", "OVERPAYMENT"),
 ]
 for i, (cid, desc, verdict) in enumerate(CTRL):
     r = 14 + i
     db.cell(row=r, column=1, value=cid)
     db.cell(row=r, column=2, value=desc)
-    db.cell(row=r, column=3, value=f'=COUNTIF({REG}!$B$2:$B${REG_LAST},"{cid}")').number_format = INT
-    db.cell(row=r, column=4,
+    db.merge_cells(start_row=r, start_column=2, end_row=r, end_column=3)
+    db.cell(row=r, column=4, value=f'=COUNTIF({REG}!$B$2:$B${REG_LAST},"{cid}")').number_format = INT
+    db.cell(row=r, column=5,
             value=f'=COUNTIF({RECON}!$S$2:$S${RECON_LAST},"{verdict}")').number_format = INT
-    db.cell(row=r, column=5, value=f"=$C{r}-$D{r}").number_format = INT
-    db.cell(row=r, column=6, value=f'=IF($E{r}=0,"AGREE","INVESTIGATE")')
-    for c in range(1, 7):
+    db.cell(row=r, column=6, value=f"=$D{r}-$E{r}").number_format = INT
+    db.cell(row=r, column=7, value=f'=IF($F{r}=0,"AGREE","INVESTIGATE")')
+    for c in range(1, 8):
         cell = db.cell(row=r, column=c)
         cell.font = Font(name=FONT, size=10, color=INK)
         cell.border = BOX
 
 r = 17
 db.cell(row=r, column=1, value="ALL")
-db.cell(row=r, column=2, value="Claims where the Excel verdict and the SQL verdict disagree")
-db.cell(row=r, column=3, value=f"={READ}!$C$12").number_format = INT
-db.cell(row=r, column=4, value=f'=COUNTIF({RECON}!$U$2:$U${RECON_LAST},"AGREE")').number_format = INT
-db.cell(row=r, column=5, value=f'=COUNTIF({RECON}!$U$2:$U${RECON_LAST},"CHECK")').number_format = INT
-db.cell(row=r, column=6, value=f'=IF($E{r}=0,"AGREE","INVESTIGATE")')
-for c in range(1, 7):
+db.cell(row=r, column=2, value="Excel verdict vs SQL verdict, every claim")
+db.merge_cells(start_row=r, start_column=2, end_row=r, end_column=3)
+db.cell(row=r, column=4, value=f"={READ}!$C$12").number_format = INT
+db.cell(row=r, column=5, value=f'=COUNTIF({RECON}!$U$2:$U${RECON_LAST},"AGREE")').number_format = INT
+db.cell(row=r, column=6, value=f'=COUNTIF({RECON}!$U$2:$U${RECON_LAST},"CHECK")').number_format = INT
+db.cell(row=r, column=7, value=f'=IF($F{r}=0,"AGREE","INVESTIGATE")')
+for c in range(1, 8):
     cell = db.cell(row=r, column=c)
     cell.font = Font(name=FONT, size=10, bold=True, color=INK)
     cell.border = BOX
 
-db.conditional_formatting.add("F14:F17",
+db.conditional_formatting.add("G14:G17",
     CellIsRule(operator="equal", formula=['"AGREE"'],
                fill=PatternFill("solid", fgColor=GOOD_BG),
                font=Font(name=FONT, size=10, bold=True, color=GOOD)))
-db.conditional_formatting.add("F14:F17",
+db.conditional_formatting.add("G14:G17",
     CellIsRule(operator="equal", formula=['"INVESTIGATE"'],
                fill=PatternFill("solid", fgColor=BAD_BG),
                font=Font(name=FONT, size=10, bold=True, color=CRITICAL)))

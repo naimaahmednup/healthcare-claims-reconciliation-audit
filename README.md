@@ -32,6 +32,9 @@ It contains:
 
 ## Results of the 2026-08-29 run
 
+![Audit dashboard — control totals, the SQL/Excel cross-foot, severity mix and exceptions by check](docs/images/dashboard.png)
+
+
 | | |
 |---|---|
 | Claim rows received | 25,230 |
@@ -48,7 +51,8 @@ It contains:
 | Finding | Volume | Exposure |
 |---|---|---|
 | Duplicate claims (90 exact claim-id resends + 140 duplicate billing fingerprints) | **230** | $39,966.00 |
-| Claim-to-payment amount mismatches (310 balance breaks + 45 overpayments) | **355** | $11,260.91 |
+| Claim-to-payment amount mismatches — billed does not equal paid + patient responsibility + adjustment | **310** | $9,765.55 |
+| Overpayments — paid above the billed charge | 45 | $1,495.36 |
 | Orphaned remittance records — payment posted against a claim that does not exist | **120** | $13,269.45 |
 | Duplicate remittance postings — the same claim paid twice on one check | 75 | $7,536.98 |
 | Underpayments below the contracted rate | 200 | $4,140.21 |
@@ -130,8 +134,9 @@ a check suite that was never wrong was never tested.
 
 ## The Excel workbook
 
-[`output/Claims_Reconciliation_Audit.xlsx`](output) — 8 tabs, 127,332 live formulas, no
-hardcoded results.
+[`output/Claims_Reconciliation_Audit.xlsx`](output/Claims_Reconciliation_Audit.xlsx) — 8 tabs,
+127,332 live formulas, no hardcoded results. GitHub cannot preview `.xlsx`, so use the
+**Download raw file** button; the screenshot above is the Dashboard tab.
 
 The workbook is not a screenshot of the SQL output. It reloads the reconciliation grain and
 **re-derives DQ-05, DQ-06 and DQ-07 in native Excel formulas** from the raw remittance amounts,
